@@ -1,0 +1,74 @@
+ID: gem_tut_canopic_coffinette_isis_overview_en_001
+TITLE: Canopic Coffinette of Tutankhamun – Isis
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette (Isis)
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, canopic coffinette, Isis, funerary gold
+
+TEXT:
+This miniature gold coffin is one of four canopic coffinettes used to hold Tutankhamun’s embalmed internal organs inside the canopic chest. Made of solid beaten gold and decorated with red carnelian and colored glass inlays, it shows the king wearing the nemes headcloth and holding the crook and flail.
+
+
+
+ID: gem_tut_canopic_coffinette_isis_details_en_002
+TITLE: Canopic Coffinette of Tutankhamun – Inscription and Design
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette (Isis)
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: Isis, protective spell, hieroglyphs, royal iconography
+
+TEXT:
+A vertical column of hieroglyphic text runs down the front of the coffinette and contains a protective spell spoken by the goddess Isis. Isis was revered as a divine protector and healer, making her presence essential in rituals of rebirth and resurrection.
+
+
+
+ID: gem_tut_canopic_coffinette_isis_function_en_003
+TITLE: Canopic Coffinette of Tutankhamun – Function and Protection
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette (Isis)
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: embalmed organs, Four Sons of Horus, royal burial
+
+TEXT:
+Canopic coffinettes preserved the king’s internal organs under the guardianship of the Four Sons of Horus and their associated goddesses. This coffinette’s connection to Isis emphasizes her role in safeguarding the king’s physical essence for eternal life.
+
+
+
+ID: gem_tut_canopic_coffinette_isis_history_en_004
+TITLE: Canopic Coffinette of Tutankhamun – Workshop History
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette (Isis)
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: historical_background
+TAGS: repurposed object, altered cartouches, royal workshops
+
+TEXT:
+Evidence of altered cartouches indicates that this coffinette was repurposed, reflecting how royal workshops reused existing objects to complete Tutankhamun’s burial quickly. Despite this adaptation, its goldwork and protective inscription retained full religious effectiveness.
+
+
+
+ID: gem_tut_canopic_coffinette_isis_faq_en_005
+TITLE: Canopic Coffinette of Tutankhamun – Isis (FAQ)
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette (Isis)
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, Isis, canopic organs
+
+TEXT:
+Q: Why is Isis mentioned on this coffinette?
+A: Isis was a goddess of protection and healing.
+
+Q: Why was it reused?
+A: Objects were adapted to complete the burial quickly.
+
+Q: What did it contain?
+A: One embalmed internal organ.

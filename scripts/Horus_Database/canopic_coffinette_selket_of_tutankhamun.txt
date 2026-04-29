@@ -1,0 +1,74 @@
+ID: gem_tut_canopic_coffinette_selket_overview_en_001
+TITLE: Canopic Coffinette of Tutankhamun – Selket
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette (Selket)
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, canopic coffinette, Selket, funerary protection
+
+TEXT:
+This coffinette is one of four miniature solid-gold coffins created to contain Tutankhamun’s mummified internal organs. It is decorated with delicate inlays of red carnelian and colored glass and presents the king enveloped by the wings of protective goddesses.
+
+
+
+ID: gem_tut_canopic_coffinette_selket_details_en_002
+TITLE: Canopic Coffinette of Tutankhamun – Artistic Features
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette (Selket)
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: gold inlay, protective wings, royal imagery
+
+TEXT:
+The imagery emphasizes divine protection, with the king’s upper body sheltered by the wings of goddesses associated with Upper and Lower Egypt. The craftsmanship reflects the theological importance of shielding the king’s body from harm.
+
+
+
+ID: gem_tut_canopic_coffinette_selket_function_en_003
+TITLE: Canopic Coffinette of Tutankhamun – Function and Guardian
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette (Selket)
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: Selket, intestines, funerary magic, Four Sons of Horus
+
+TEXT:
+This coffinette is associated with the goddess Selket, a protector against danger and a healing deity in funerary magic. In Tutankhamun’s burial, Selket was paired with the Son of Horus responsible for guarding the intestines.
+
+
+
+ID: gem_tut_canopic_coffinette_selket_history_en_004
+TITLE: Canopic Coffinette of Tutankhamun – Religious System
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette (Selket)
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: historical_background
+TAGS: balanced protection, royal theology, afterlife belief
+
+TEXT:
+The pairing of Selket with the intestines formed part of a balanced protective system that ensured the king’s bodily integrity in the afterlife. Each organ required its own divine guardian to guarantee successful resurrection.
+
+
+
+ID: gem_tut_canopic_coffinette_selket_faq_en_005
+TITLE: Canopic Coffinette of Tutankhamun – Selket (FAQ)
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette (Selket)
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, Selket, canopic organs
+
+TEXT:
+Q: Which organ did this coffinette protect?
+A: The intestines.
+
+Q: Who is Selket?
+A: A goddess of protection and healing.
+
+Q: Why are wings shown?
+A: They symbolize divine shelter.

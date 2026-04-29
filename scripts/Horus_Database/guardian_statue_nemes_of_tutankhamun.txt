@@ -1,0 +1,60 @@
+ID: gem_tut_guardian_nemes_overview_en_001
+TITLE: Guardian Statue of Tutankhamun – Nemes Headcloth (Overview)
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Guardian Statue with Nemes Headcloth
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, guardian statue, nemes headcloth, tomb protection
+
+TEXT:
+This life-size guardian statue of Tutankhamun is part of a pair that stood before the sealed doorway to his Burial Chamber. Shown as a powerful royal figure holding a staff and a mace, it functioned as a protective presence at the threshold of the king’s burial space.
+
+
+
+ID: gem_tut_guardian_nemes_details_en_002
+TITLE: Guardian Statue of Tutankhamun – Nemes (Features)
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Guardian Statue with Nemes Headcloth
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: nemes, wood core, black resin, gold leaf, mace, staff
+
+TEXT:
+Tutankhamun wears the nemes headcloth, the striped royal headdress associated with divine kingship. The statue is carved from wood and coated with black resin and gold leaf, and the king holds a long staff and a mace—symbols of authority and protection.
+
+
+
+ID: gem_tut_guardian_nemes_function_en_003
+TITLE: Guardian Statue of Tutankhamun – Symbolism
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Guardian Statue with Nemes Headcloth
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: Horus, Ra, royal authority, afterlife journey
+
+TEXT:
+The nemes headcloth represents royal authority and is strongly linked with gods such as Horus and Ra. Combined with the black resin associated with Osiris and regeneration, the statue presents the king as divinely protected and ready for his journey into the afterlife.
+
+
+
+ID: gem_tut_guardian_nemes_faq_en_004
+TITLE: Guardian Statue of Tutankhamun – Nemes (FAQ)
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Guardian Statue with Nemes Headcloth
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, nemes meaning, tomb guardians
+
+TEXT:
+Q: What does the nemes headcloth symbolize?
+A: Royal authority and divine kingship.
+
+Q: Why does the statue hold a mace and staff?
+A: They represent power and protection.
+
+Q: Why were guardian statues placed here?
+A: To protect the burial chamber entrance.

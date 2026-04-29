@@ -1,0 +1,74 @@
+ID: gem_tut_canopic_coffinette_neith_overview_en_001
+TITLE: Canopic Coffinette of Tutankhamun – Neith
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette (Neith)
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, canopic coffinette, Neith, royal burial
+
+TEXT:
+This miniature gold coffin is one of four placed inside Tutankhamun’s canopic chest and held one of the king’s embalmed internal organs. Richly inlaid with carnelian and colored glass, it reflects the finest craftsmanship of the royal workshops.
+
+
+
+ID: gem_tut_canopic_coffinette_neith_details_en_002
+TITLE: Canopic Coffinette of Tutankhamun – Inscription and Craftsmanship
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette (Neith)
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: Neith, protective spell, gold inlay, hieroglyphs
+
+TEXT:
+A hieroglyphic inscription down the front contains a protective spell spoken by the goddess Neith. The meticulous inlay work and gold surface emphasize the sacred importance of the object.
+
+
+
+ID: gem_tut_canopic_coffinette_neith_function_en_003
+TITLE: Canopic Coffinette of Tutankhamun – Function and Guardian
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette (Neith)
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: Neith, Duamutef, stomach, funerary theology
+
+TEXT:
+Neith was paired with Duamutef, the Son of Horus who guarded the stomach. Together, they provided divine defense over one of the king’s vital organs, ensuring its preservation for resurrection.
+
+
+
+ID: gem_tut_canopic_coffinette_neith_history_en_004
+TITLE: Canopic Coffinette of Tutankhamun – Religious Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette (Neith)
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: historical_background
+TAGS: afterlife belief, royal protection, funerary system
+
+TEXT:
+The presence of Neith, a goddess associated with warfare, creation, and protection, underscores the importance of safeguarding every aspect of the king’s physical body. The opulent materials reflect the religious seriousness of this task.
+
+
+
+ID: gem_tut_canopic_coffinette_neith_faq_en_005
+TITLE: Canopic Coffinette of Tutankhamun – Neith (FAQ)
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette (Neith)
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, Neith, canopic organs
+
+TEXT:
+Q: Which organ did this coffinette protect?
+A: The stomach.
+
+Q: Who is Neith?
+A: A goddess of protection and creation.
+
+Q: Why was gold used?
+A: Gold symbolized eternity and divine flesh.

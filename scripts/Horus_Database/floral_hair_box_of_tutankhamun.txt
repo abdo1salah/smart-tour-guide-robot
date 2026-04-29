@@ -1,0 +1,74 @@
+ID: gem_tut_floral_hair_box_overview_en_001
+TITLE: Floral Hair Box – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Floral Hair Box
+PERIOD: New Kingdom (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, hair box, personal objects, funerary items
+
+TEXT:
+This delicately decorated floral hair box was discovered in the Antechamber inside a yellow-painted wooden container. Inside, Howard Carter found two cloth-wrapped balls of human hair, highlighting the deeply personal nature of the object.
+
+
+
+ID: gem_tut_floral_hair_box_details_en_002
+TITLE: Floral Hair Box – Decoration
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Floral Hair Box
+PERIOD: New Kingdom (Tutankhamun)
+TYPE: details
+TAGS: lotus, mandrake, papyrus, Egyptian floral art
+
+TEXT:
+The lid is painted with bouquets of papyrus, mandrake fruits, cornflowers, and lotus petals. These floral motifs were carefully chosen for their symbolic associations with life, fertility, and renewal.
+
+
+
+ID: gem_tut_floral_hair_box_function_en_003
+TITLE: Floral Hair Box – Symbolic Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Floral Hair Box
+PERIOD: New Kingdom (Tutankhamun)
+TYPE: significance
+TAGS: rebirth, fertility, personal magic, funerary belief
+
+TEXT:
+Objects containing human hair held strong symbolic meaning in ancient Egypt. Preserved hair could act as a magical substitute for a loved one’s presence and was associated with rebirth and continuity beyond death.
+
+
+
+ID: gem_tut_floral_hair_box_history_en_004
+TITLE: Floral Hair Box – Religious Context
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Floral Hair Box
+PERIOD: New Kingdom (Tutankhamun)
+TYPE: historical_background
+TAGS: funerary rituals, royal intimacy, Egyptian symbolism
+
+TEXT:
+The use of lotus and mandrake imagery reinforces themes of regeneration, sexuality, and renewal. These motifs underline the ritual purpose of the hair box within the broader funerary beliefs of the New Kingdom.
+
+
+
+ID: gem_tut_floral_hair_box_faq_en_005
+TITLE: Floral Hair Box – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Floral Hair Box
+PERIOD: New Kingdom
+TYPE: faq
+TAGS: visitor questions, royal hair, funerary objects
+
+TEXT:
+Q: Whose hair was inside?
+A: Possibly royal family members.
+
+Q: Why keep hair in a tomb?
+A: It symbolized rebirth and personal bonds.
+
+Q: Why floral designs?
+A: Flowers represented regeneration and life.

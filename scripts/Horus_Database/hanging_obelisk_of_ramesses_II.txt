@@ -1,0 +1,122 @@
+ID: gem_ramesses2_obelisk_overview_en_001
+TITLE: Hanging Obelisk of Ramesses II – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Hanging Obelisk of Ramesses II
+PERIOD: New Kingdom – 19th Dynasty (Reign of Ramesses II, 1279–1213 BCE)
+TYPE: overview
+TAGS: Ramesses II, obelisk, Tanis, New Kingdom, monumental architecture
+
+TEXT:
+This red granite obelisk of Ramesses II once stood at Tanis (San el-Hagar) in Egypt’s Eastern Delta and is the tallest obelisk known from that city, reaching about 16 meters in height. The monument weighs roughly 87 tons and bears inscriptions on all four sides naming the Horus name, throne name, and birth name of the king. Today it is displayed at the Grand Egyptian Museum in Giza as the famous “Hanging Obelisk,” suspended above a platform so visitors can view the cartouches carved on its lower section.
+
+
+
+ID: gem_ramesses2_obelisk_details_en_002
+TITLE: Hanging Obelisk of Ramesses II – Materials and Artistic Features
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Hanging Obelisk of Ramesses II
+PERIOD: New Kingdom – 19th Dynasty
+TYPE: details
+TAGS: red granite, hieroglyphs, cartouches, pyramidion
+
+TEXT:
+The obelisk is carved from red granite quarried in Aswan. Its four sides are covered with hieroglyphic inscriptions that praise Ramesses II and record his royal titles. The polished surfaces demonstrate the high level of skill achieved by ancient Egyptian stoneworkers. At the top of the obelisk is a pyramidion, originally designed to reflect sunlight and symbolize the rays of the sun.
+
+
+
+ID: gem_ramesses2_obelisk_function_en_003
+TITLE: Hanging Obelisk of Ramesses II – Function / Purpose
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Hanging Obelisk of Ramesses II
+PERIOD: New Kingdom – 19th Dynasty
+TYPE: significance
+TAGS: temple monument, solar symbolism, Amun-Re worship
+
+TEXT:
+Obelisks were monumental structures typically placed at the entrances of temples. They symbolized the rays of the sun and were closely associated with the sun god Ra and the god Amun-Re. By erecting such monuments, Ramesses II proclaimed his devotion to the gods and reinforced his divine authority as pharaoh.
+
+
+
+ID: gem_ramesses2_obelisk_history_en_004
+TITLE: Hanging Obelisk of Ramesses II – Historical Context
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Hanging Obelisk of Ramesses II
+PERIOD: New Kingdom – 19th Dynasty
+TYPE: historical_background
+TAGS: Ramesses II, Tanis monuments, imperial Egypt
+
+TEXT:
+Ramesses II commissioned numerous monuments throughout Egypt during his long reign. At Tanis alone he raised more than ten obelisks, demonstrating his dedication to temple building and royal propaganda. These monuments celebrated the king’s victories, power, and relationship with the gods during Egypt’s imperial peak.
+
+
+
+ID: gem_ramesses2_obelisk_location_en_005
+TITLE: Hanging Obelisk of Ramesses II – Original Location
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Hanging Obelisk of Ramesses II
+PERIOD: New Kingdom – 19th Dynasty
+TYPE: historical_background
+TAGS: Tanis, San el-Hagar, Eastern Delta
+
+TEXT:
+The obelisk originally stood at Tanis (modern San el-Hagar) in Egypt’s Eastern Nile Delta. Tanis was an important religious and political center during later periods of Egyptian history, where many monuments from earlier dynasties were reused or relocated.
+
+
+
+ID: gem_ramesses2_obelisk_discovery_en_006
+TITLE: Hanging Obelisk of Ramesses II – Discovery / Archaeology
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Hanging Obelisk of Ramesses II
+PERIOD: Modern era
+TYPE: historical_background
+TAGS: Tanis excavations, archaeology, museum relocation
+
+TEXT:
+Fragments of obelisks from Tanis were discovered during archaeological excavations beginning in the late nineteenth century. The obelisk now displayed at the Grand Egyptian Museum was recovered and carefully transported for conservation and display. It was installed in a special suspended structure at the museum entrance, allowing visitors to view inscriptions on its base that were previously hidden.
+
+
+
+ID: gem_ramesses2_obelisk_symbolism_en_007
+TITLE: Hanging Obelisk of Ramesses II – Symbolism or Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Hanging Obelisk of Ramesses II
+PERIOD: New Kingdom – 19th Dynasty
+TYPE: significance
+TAGS: sun symbolism, benben stone, divine kingship
+
+TEXT:
+The obelisk symbolized the benben stone, the sacred mound of creation associated with the sun god Ra. Its tall form represented rays of sunlight descending from the heavens. The inscriptions linking Ramesses II with the gods reinforced the idea that the king ruled with divine approval and maintained cosmic order, known as maat.
+
+
+
+ID: gem_ramesses2_obelisk_faq_en_008
+TITLE: Hanging Obelisk of Ramesses II – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Hanging Obelisk of Ramesses II
+PERIOD: New Kingdom – 19th Dynasty
+TYPE: faq
+TAGS: visitor questions, Ramesses II, obelisks
+
+TEXT:
+Q: Where can I see the Hanging Obelisk?
+A: It is displayed at the entrance plaza of the Grand Egyptian Museum in Giza.
+
+Q: Why is the obelisk suspended?
+A: It is raised on a special platform supported by pillars so visitors can view the cartouches carved on its lower section.
+
+Q: How tall is the obelisk?
+A: It stands about 16 meters high and weighs roughly 87 tons.
+
+Q: Where was it originally located?
+A: At the ancient city of Tanis in Egypt’s Eastern Delta.
+
+Q: Why were obelisks built?
+A: They symbolized the rays of the sun god and proclaimed the pharaoh’s devotion to the gods.

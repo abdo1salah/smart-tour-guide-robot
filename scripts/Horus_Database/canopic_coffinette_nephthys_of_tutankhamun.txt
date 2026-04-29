@@ -1,0 +1,74 @@
+ID: gem_tut_canopic_coffinette_nephthys_overview_en_001
+TITLE: Canopic Coffinette of Tutankhamun – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, canopic coffinette, Nephthys, funerary gold
+
+TEXT:
+These miniature anthropoid coffins were created to hold Tutankhamun’s embalmed internal organs. Made of solid beaten gold, each coffinette reflects the high level of craftsmanship and religious importance placed on preserving the king’s body for eternity.
+
+
+
+ID: gem_tut_canopic_coffinette_nephthys_details_en_002
+TITLE: Canopic Coffinette of Tutankhamun – Materials and Iconography
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: gold inlay, carnelian, nemes, royal regalia
+
+TEXT:
+Each coffinette is decorated with intricate feathered patterns inlaid with red carnelian and colored glass. The king is shown wearing the nemes headcloth with both the vulture and uraeus emblems, and holding the crook and flail, symbols of royal authority and divine kingship.
+
+
+
+ID: gem_tut_canopic_coffinette_nephthys_function_en_003
+TITLE: Canopic Coffinette of Tutankhamun – Function and Protection
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: embalmed organs, Four Sons of Horus, funerary theology
+
+TEXT:
+Canopic coffinettes served as sacred containers for the king’s preserved organs, which were believed essential for spiritual renewal. Each coffinette was associated with one of the Four Sons of Horus and a protective goddess; in this case, Nephthys, who provided divine protection.
+
+
+
+ID: gem_tut_canopic_coffinette_nephthys_history_en_004
+TITLE: Canopic Coffinette of Tutankhamun – Religious Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: historical_background
+TAGS: royal workshops, funerary belief, resurrection
+
+TEXT:
+The luxurious use of gold and inlaid materials reflects both the wealth of the royal workshops and the theological importance of safeguarding the king’s physical essence. These coffinettes formed part of a carefully structured funerary system designed to ensure resurrection and eternal life.
+
+
+
+ID: gem_tut_canopic_coffinette_nephthys_faq_en_005
+TITLE: Canopic Coffinette of Tutankhamun – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Coffinette
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, canopic organs, Nephthys
+
+TEXT:
+Q: What did a canopic coffinette contain?
+A: One embalmed internal organ.
+
+Q: Why was it made of gold?
+A: Gold symbolized eternity and divine flesh.
+
+Q: Who protected this coffinette?
+A: The goddess Nephthys, paired with a Son of Horus.

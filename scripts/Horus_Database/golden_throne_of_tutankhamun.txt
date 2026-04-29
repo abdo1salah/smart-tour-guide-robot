@@ -1,0 +1,74 @@
+ID: gem_tut_golden_throne_overview_en_001
+TITLE: Golden Throne of Tutankhamun – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Golden Throne
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, Golden Throne, royal furniture, New Kingdom
+
+TEXT:
+The Golden Throne of Tutankhamun is a richly decorated ceremonial armchair found wrapped in linen in the Antechamber of his tomb. Made of wood covered with sheets of gold and inlaid with colored materials, it is one of the most famous royal objects from the 18th Dynasty.
+
+
+
+ID: gem_tut_golden_throne_details_en_002
+TITLE: Golden Throne of Tutankhamun – Materials and Decoration
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Golden Throne
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: gold sheets, faience, semi-precious stones, inlay, uraeus
+
+TEXT:
+The throne is constructed from wood covered with gold sheets that are chased and inlaid with glass, faience, and semi-precious stones. Its side panels are formed by winged uraeus snakes holding the king’s cartouche, combining luxury craftsmanship with strong protective symbolism.
+
+
+
+ID: gem_tut_golden_throne_scene_en_003
+TITLE: Golden Throne of Tutankhamun – The Backrest Scene
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Golden Throne
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: Aten, royal couple, Amarna, restoration
+
+TEXT:
+A celebrated scene on the backrest shows the king and queen under a floral canopy, with rays of the Aten sun disk reaching down toward them. This imagery reflects the transitional ideology early in Tutankhamun’s reign, bridging Amarna-style symbolism with the return to traditional royal authority.
+
+
+
+ID: gem_tut_golden_throne_context_en_004
+TITLE: Golden Throne of Tutankhamun – Historical Context
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Golden Throne
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: historical_background
+TAGS: post-Amarna, Akhenaten reforms, traditional religion
+
+TEXT:
+Tutankhamun’s reign followed the religious reforms of Akhenaten, and many objects from his early years show a complex mix of styles and beliefs. The throne offers insight into this cultural shift and the restoration of traditional religious and political order in late Dynasty 18.
+
+
+
+ID: gem_tut_golden_throne_faq_en_005
+TITLE: Golden Throne of Tutankhamun – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Golden Throne
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, Aten rays, royal furniture
+
+TEXT:
+Q: Why are Aten rays shown on the throne?
+A: It reflects early reign imagery influenced by the Amarna period.
+
+Q: What do the winged uraei mean?
+A: They symbolize royal protection.
+
+Q: Was it used as daily furniture?
+A: It was likely ceremonial and symbolic, not ordinary seating.

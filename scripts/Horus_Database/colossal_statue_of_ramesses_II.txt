@@ -1,0 +1,88 @@
+ID: gem_ramses2_colossus_overview_en_001
+TITLE: Colossal Statue of Ramesses II – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Colossal Statue of Ramesses II
+PERIOD: New Kingdom, Dynasty 19 (c. 1279–1213 BCE)
+TYPE: overview
+TAGS: Ramesses II, colossal statue, New Kingdom, pharaoh, royal sculpture
+
+TEXT:
+This colossal red granite statue of Ramesses II stands over 11 meters tall and depicts the king in a powerful striding pose. Carved at his legs are figures of his children, including Khaemwaset and Bintanath, emphasizing royal lineage and continuity. The statue’s scale and carefully proportioned form were designed to project authority, strength, and divine kingship.
+
+
+
+ID: gem_ramses2_colossus_details_en_002
+TITLE: Colossal Statue of Ramesses II – Artistic Details
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Colossal Statue of Ramesses II
+PERIOD: New Kingdom, Dynasty 19 (c. 1279–1213 BCE)
+TYPE: details
+TAGS: granite, hieroglyphs, royal children, Egyptian art
+
+TEXT:
+The statue is carved from red granite and features finely worked proportions and hieroglyphic inscriptions. The inclusion of royal children at the king’s legs reinforces Ramesses II’s role as both ruler and father of the dynasty. Hieroglyphs carved on the statue link the king to the gods, highlighting his divine legitimacy.
+
+
+
+ID: gem_ramses2_colossus_function_en_003
+TITLE: Colossal Statue of Ramesses II – Function and Worship
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Colossal Statue of Ramesses II
+PERIOD: New Kingdom, Dynasty 19 (c. 1279–1213 BCE)
+TYPE: significance
+TAGS: Temple of Ptah, Memphis, divine kingship, worship
+
+TEXT:
+Originally placed outside the Temple of Ptah at Memphis, the statue functioned as a divine intermediary between the king and the gods. Ancient Egyptians venerated Ramesses II as a living god, offering prayers and offerings at monumental statues like this one. Such statues reinforced the belief that the pharaoh upheld cosmic order through divine favor.
+
+
+
+ID: gem_ramses2_colossus_history_en_004
+TITLE: Colossal Statue of Ramesses II – Historical Background
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Colossal Statue of Ramesses II
+PERIOD: New Kingdom, Dynasty 19 (c. 1279–1213 BCE)
+TYPE: historical_background
+TAGS: Ramesses the Great, New Kingdom history, royal ideology
+
+TEXT:
+Ramesses II, often called Ramesses the Great, ruled Egypt during a long and prosperous reign marked by extensive building projects and military campaigns. His monuments across Egypt promoted an ideal image of kingship centered on power, stability, and divine support. This colossal statue reflects how royal imagery shaped political and religious life during the New Kingdom.
+
+
+
+ID: gem_ramses2_colossus_relocation_en_005
+TITLE: Colossal Statue of Ramesses II – Modern History
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Colossal Statue of Ramesses II
+PERIOD: Modern era
+TYPE: historical_background
+TAGS: heritage preservation, Cairo, museum relocation
+
+TEXT:
+After its excavation, the statue was displayed in Cairo’s central square before being carefully relocated to the Grand Egyptian Museum. This journey reflects modern efforts to preserve and present Egypt’s ancient heritage. Today, the statue stands as a bridge between ancient reverence for the king and contemporary museum conservation.
+
+
+
+ID: gem_ramses2_colossus_faq_en_006
+TITLE: Colossal Statue of Ramesses II – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Colossal Statue of Ramesses II
+PERIOD: New Kingdom, Dynasty 19
+TYPE: faq
+TAGS: visitor questions, royal statues
+
+TEXT:
+Q: Why is the statue so large?
+A: Its colossal size was meant to emphasize the pharaoh’s power and divine status.
+
+Q: Why are children carved at his legs?
+A: They represent royal lineage and the continuation of the dynasty.
+
+Q: Where did the statue originally stand?
+A: Outside the Temple of Ptah in Memphis.

@@ -1,0 +1,74 @@
+ID: gem_tut_festival_earrings_overview_en_001
+TITLE: Festival Earrings – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Festival Earrings
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, festival jewelry, royal adornment, New Kingdom
+
+TEXT:
+These intricate festival earrings feature small figures of Tutankhamun standing on a heb festival sign between protective uraeus snakes, all suspended beneath a falcon. Each earring consists of three separate components and required assistance to wear.
+
+
+
+ID: gem_tut_festival_earrings_details_en_002
+TITLE: Festival Earrings – Design and Symbols
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Festival Earrings
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: heb festival, uraeus, falcon, royal iconography
+
+TEXT:
+The heb festival sign symbolizes renewal and the reaffirmation of kingship. The uraeus snakes represent royal protection, while the falcon above links the king to Horus, the divine embodiment of kingship.
+
+
+
+ID: gem_tut_festival_earrings_function_en_003
+TITLE: Festival Earrings – Ceremonial Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Festival Earrings
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: royal festivals, divine authority, ritual rejuvenation
+
+TEXT:
+Jewelry reflecting royal festivals played a central role in New Kingdom court imagery. These earrings visually linked Tutankhamun to rituals that renewed his divine authority and affirmed his role as a god-king.
+
+
+
+ID: gem_tut_festival_earrings_history_en_004
+TITLE: Festival Earrings – Craftsmanship
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Festival Earrings
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: historical_background
+TAGS: royal goldsmiths, ceremonial jewelry, New Kingdom art
+
+TEXT:
+The earrings demonstrate the sophistication of royal goldsmiths and the importance of ceremonial adornment in royal burials. Their complexity reflects both artistic excellence and symbolic depth.
+
+
+
+ID: gem_tut_festival_earrings_faq_en_005
+TITLE: Festival Earrings – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Festival Earrings
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, heb festival, royal jewelry
+
+TEXT:
+Q: What is the heb festival?
+A: A ritual celebrating renewal of kingship.
+
+Q: Why are snakes shown?
+A: They symbolize royal protection.
+
+Q: Were these worn in life?
+A: Likely during ceremonies.

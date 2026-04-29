@@ -1,0 +1,60 @@
+ID: gem_tut_lion_perfume_jar_overview_en_001
+TITLE: Lion-Shaped Perfume Jar – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Lion-Shaped Perfume Jar
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, perfume jar, lion symbolism, alabaster
+
+TEXT:
+This lion-shaped perfume jar was found in the Annex of Tutankhamun’s tomb. Carved from a single piece of Egyptian alabaster, it depicts a crowned lion standing on a tall stool and originally contained perfumed ointment.
+
+
+
+ID: gem_tut_lion_perfume_jar_details_en_002
+TITLE: Lion-Shaped Perfume Jar – Materials and Craftsmanship
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Lion-Shaped Perfume Jar
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: alabaster, ivory, gold fittings, New Kingdom art
+
+TEXT:
+The lion’s teeth and tongue were made of ivory, while its missing earrings and claws were likely gold. Painted floral and geometric motifs in blue, white, and yellow decorate the vessel, reflecting the high artistic standards of royal workshops.
+
+
+
+ID: gem_tut_lion_perfume_jar_function_en_003
+TITLE: Lion-Shaped Perfume Jar – Symbolic Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Lion-Shaped Perfume Jar
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: protection, royal power, funerary symbolism
+
+TEXT:
+Lions symbolized strength, protection, and royal authority in ancient Egypt. The aggressive posture of the lion was intended to ward off evil and protect the king, while the perfume inside was associated with purification and renewal.
+
+
+
+ID: gem_tut_lion_perfume_jar_faq_en_004
+TITLE: Lion-Shaped Perfume Jar – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Lion-Shaped Perfume Jar
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, lion symbolism, royal perfumes
+
+TEXT:
+Q: Why is the jar shaped like a lion?
+A: Lions symbolized power and protection.
+
+Q: What was inside it?
+A: Perfumed ointment.
+
+Q: Why use alabaster?
+A: It was valued for purity and beauty.

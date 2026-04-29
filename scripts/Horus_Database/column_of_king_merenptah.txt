@@ -1,0 +1,88 @@
+ID: gem_merenptah_column_overview_en_001
+TITLE: Column of King Merenptah – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Column of King Merenptah
+PERIOD: New Kingdom, Dynasty 19 (c. 1213–1203 BCE)
+TYPE: overview
+TAGS: Merenptah, New Kingdom, column, Ramesside, royal monuments
+
+TEXT:
+This monumental column of King Merenptah stands over 5 meters high and dates to the late New Kingdom. It celebrates the king’s military victories and divine support, presenting him as a powerful and legitimate ruler following the reign of Ramesses II.
+
+
+
+ID: gem_merenptah_column_details_en_002
+TITLE: Column of King Merenptah – Materials and Reliefs
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Column of King Merenptah
+PERIOD: New Kingdom, Dynasty 19 (c. 1213–1203 BCE)
+TYPE: details
+TAGS: relief carving, hieroglyphs, tripartite base, Egyptian art
+
+TEXT:
+The column features a tripartite base made of limestone and sandstone, topped by a red granite shaft. Carved reliefs show King Merenptah receiving weapons from the gods and triumphing over defeated enemies. Scenes of bound prisoners and captured spoils are accompanied by celebratory hieroglyphic inscriptions.
+
+
+
+ID: gem_merenptah_column_function_en_003
+TITLE: Column of King Merenptah – Function and Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Column of King Merenptah
+PERIOD: New Kingdom, Dynasty 19 (c. 1213–1203 BCE)
+TYPE: significance
+TAGS: military victories, divine sanction, royal propaganda, temple monuments
+
+TEXT:
+The column was erected to commemorate Merenptah’s military victories, particularly against the Libyans and the Sea Peoples. By depicting the king receiving weapons from the gods, the monument emphasizes that his success in battle was divinely sanctioned and essential to maintaining cosmic order.
+
+
+
+ID: gem_merenptah_column_context_en_004
+TITLE: Column of King Merenptah – Original Location
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Column of King Merenptah
+PERIOD: New Kingdom, Dynasty 19 (c. 1213–1203 BCE)
+TYPE: historical_background
+TAGS: Heliopolis, temple context, New Kingdom religion
+
+TEXT:
+Originally erected at Heliopolis, a major religious center associated with the sun god Ra, the column stood in a sacred landscape that reinforced royal and divine authority. Its placement linked Merenptah’s victories with the favor of the gods worshipped at one of Egypt’s most important cult centers.
+
+
+
+ID: gem_merenptah_column_history_en_005
+TITLE: Column of King Merenptah – Historical Background
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Column of King Merenptah
+PERIOD: New Kingdom, Dynasty 19 (c. 1213–1203 BCE)
+TYPE: historical_background
+TAGS: son of Ramesses II, Israel Stele, Ramesside period, military campaigns
+
+TEXT:
+Merenptah was the son and successor of Ramesses II and ruled Egypt during a period of external threats. His reign is best known for military campaigns commemorated in monumental inscriptions, including the famous Israel Stele. The imagery on this column reflects a late Ramesside emphasis on conquest and divine kingship.
+
+
+
+ID: gem_merenptah_column_faq_en_006
+TITLE: Column of King Merenptah – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Column of King Merenptah
+PERIOD: New Kingdom, Dynasty 19
+TYPE: faq
+TAGS: visitor questions, Merenptah, Egyptian warfare
+
+TEXT:
+Q: What does the column show?
+A: Scenes of Merenptah receiving weapons from the gods and defeating enemies.
+
+Q: Where did it originally stand?
+A: At Heliopolis.
+
+Q: Why are prisoners shown?
+A: They symbolize victory and the king’s role as protector of Egypt.

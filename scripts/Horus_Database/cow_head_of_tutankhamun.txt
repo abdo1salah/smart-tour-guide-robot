@@ -1,0 +1,74 @@
+ID: gem_tut_cow_head_overview_en_001
+TITLE: Cow Head – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Cow Head
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Hathor, Tutankhamun, funerary symbolism, cow imagery
+
+TEXT:
+This ceremonial cow’s head was carved from a single block of wood and found with its throat wrapped in linen. Parts of the head are covered in gold foil, while others are painted black, creating a striking ritual appearance.
+
+
+
+ID: gem_tut_cow_head_details_en_002
+TITLE: Cow Head – Materials and Craftsmanship
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Cow Head
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: gold foil, wood carving, ceremonial objects
+
+TEXT:
+The upper neck, head, and ears are gilded, while the lower neck is painted black. The wooden horns are coated in copper and thick black resin. These materials enhanced both the visual impact and the symbolic power of the object.
+
+
+
+ID: gem_tut_cow_head_function_en_003
+TITLE: Cow Head – Religious Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Cow Head
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: Hathor, afterlife, funerary belief, Thebes
+
+TEXT:
+The cow is associated with the goddess Hathor, who welcomed the dead into the afterlife and was often shown emerging from the western mountains. This object reflects longstanding funerary beliefs linking Hathor to rebirth and divine guidance.
+
+
+
+ID: gem_tut_cow_head_history_en_004
+TITLE: Cow Head – Historical Context
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Cow Head
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: historical_background
+TAGS: Hathor cult, 18th Dynasty, funerary rituals
+
+TEXT:
+The object aligns with earlier 18th-Dynasty practices and demonstrates continuity in Hathor’s cult at Thebes. Its careful gilding and resin treatment highlight the importance placed on invoking Hathor’s protection during the king’s journey to the afterlife.
+
+
+
+ID: gem_tut_cow_head_faq_en_005
+TITLE: Cow Head – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Cow Head
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, Hathor symbolism, funerary objects
+
+TEXT:
+Q: Why is the object shaped like a cow?
+A: It represents Hathor, goddess of the afterlife.
+
+Q: Why is part of it black?
+A: Black symbolized rebirth and regeneration.
+
+Q: What was its purpose?
+A: Ritual protection and guidance of the king.

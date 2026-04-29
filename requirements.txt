@@ -1,0 +1,5 @@
+numpy
+sounddevice
+faiss-cpu
+google-genai
+google-cloud-aiplatform

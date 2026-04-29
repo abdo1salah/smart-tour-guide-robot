@@ -44,7 +44,7 @@ def generate_launch_description():
     default_world = os.path.join(
         get_package_share_directory(package_name),
         'worlds',
-        'empty.world'
+        'simple.world'
         )    
     
     world = LaunchConfiguration('world')

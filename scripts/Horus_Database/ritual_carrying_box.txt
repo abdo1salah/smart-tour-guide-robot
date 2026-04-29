@@ -1,0 +1,60 @@
+ID: gem_tut_ritual_carrying_box_overview_en_001
+TITLE: Ritual Carrying Box – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Ritual Carrying Box
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, ritual box, Opening of the Mouth, funerary rites
+
+TEXT:
+This ritual carrying box was found in the Antechamber and designed to be carried using four sliding poles. It held objects used in important funerary ceremonies.
+
+
+
+ID: gem_tut_ritual_carrying_box_details_en_002
+TITLE: Ritual Carrying Box – Design
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Ritual Carrying Box
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: red wood, ebony, royal inscriptions
+
+TEXT:
+The box is made of red wood panels set within ebony frames. Inscriptions describe Tutankhamun as the Osiris King, suggesting use after his death.
+
+
+
+ID: gem_tut_ritual_carrying_box_function_en_003
+TITLE: Ritual Carrying Box – Ceremonial Role
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Ritual Carrying Box
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: Opening of the Mouth, royal rituals, afterlife preparation
+
+TEXT:
+The box and its contents were likely used in the Opening of the Mouth ceremony, which restored the senses of the deceased and enabled rebirth.
+
+
+
+ID: gem_tut_ritual_carrying_box_faq_en_004
+TITLE: Ritual Carrying Box – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Ritual Carrying Box
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, funerary rituals, royal ceremonies
+
+TEXT:
+Q: Why was it carried?
+A: For ritual processions.
+
+Q: What ceremony was it used in?
+A: Opening of the Mouth.
+
+Q: What was inside?
+A: Ritual tools and objects.

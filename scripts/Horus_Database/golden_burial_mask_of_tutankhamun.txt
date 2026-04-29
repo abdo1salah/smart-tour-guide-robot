@@ -1,0 +1,60 @@
+ID: gem_tut_golden_mask_overview_en_001
+TITLE: Golden Burial Mask of Tutankhamun – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Golden Burial Mask of Tutankhamun
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, golden mask, Osiris, royal burial
+
+TEXT:
+The Golden Burial Mask of Tutankhamun is one of the most famous objects from ancient Egypt. Made of solid gold, it was placed over the head and shoulders of the king’s mummy.
+
+
+
+ID: gem_tut_golden_mask_details_en_002
+TITLE: Golden Burial Mask – Materials and Craftsmanship
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Golden Burial Mask of Tutankhamun
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: gold, lapis lazuli, inlay, royal portrait
+
+TEXT:
+The mask weighs over 10 kilograms and is inlaid with lapis lazuli, quartz, obsidian, and colored glass. It presents an idealized portrait of Tutankhamun with divine features.
+
+
+
+ID: gem_tut_golden_mask_function_en_003
+TITLE: Golden Burial Mask – Religious Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Golden Burial Mask of Tutankhamun
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: Osiris, resurrection, Book of the Dead
+
+TEXT:
+The mask identifies the king with Osiris and the sun god Re. Spells from the Book of the Dead inscribed inside protected the soul and ensured resurrection.
+
+
+
+ID: gem_tut_golden_mask_faq_en_004
+TITLE: Golden Burial Mask – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Golden Burial Mask of Tutankhamun
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, gold symbolism, royal masks
+
+TEXT:
+Q: Why gold?
+A: Gold symbolized divine flesh.
+
+Q: Why the cobra and vulture?
+A: They represent united Egypt.
+
+Q: Is this the king’s real face?
+A: It is an idealized likeness.

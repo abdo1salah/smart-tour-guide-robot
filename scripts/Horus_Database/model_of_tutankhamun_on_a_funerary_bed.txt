@@ -1,0 +1,60 @@
+ID: gem_tut_funerary_bed_model_overview_en_001
+TITLE: Model of Tutankhamun on a Funerary Bed – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Model of Tutankhamun on a Funerary Bed
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, funerary bed, ritual model, afterlife
+
+TEXT:
+This wooden model shows Tutankhamun as a mummy lying on a lion-headed funerary bed. It was found wrapped in linen inside a sarcophagus-shaped box together with shabti tools.
+
+
+
+ID: gem_tut_funerary_bed_model_details_en_002
+TITLE: Model of Tutankhamun on a Funerary Bed – Details
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Model of Tutankhamun on a Funerary Bed
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: lion bed, human-headed bird, falcon, soul symbolism
+
+TEXT:
+Two small figures—a human-headed bird and a falcon—sit at the king’s elbows and wrap their wings around his body. These figures symbolize the ba soul and divine protection.
+
+
+
+ID: gem_tut_funerary_bed_model_function_en_003
+TITLE: Model of Tutankhamun on a Funerary Bed – Ritual Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Model of Tutankhamun on a Funerary Bed
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: resurrection, ritual furniture, afterlife belief
+
+TEXT:
+Ritual beds were symbolic objects believed to assist the king’s rebirth. The lion form added protection and strength, helping guide the pharaoh through transformation in the afterlife.
+
+
+
+ID: gem_tut_funerary_bed_model_faq_en_004
+TITLE: Model of Tutankhamun on a Funerary Bed – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Model of Tutankhamun on a Funerary Bed
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, ba soul, funerary rituals
+
+TEXT:
+Q: Was this an actual bed?
+A: No, it was symbolic.
+
+Q: Why a lion?
+A: Lions represented protection.
+
+Q: What do the birds mean?
+A: The soul and divine guardianship.

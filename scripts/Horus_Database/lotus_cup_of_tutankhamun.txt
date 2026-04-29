@@ -1,0 +1,60 @@
+ID: gem_tut_lotus_cup_overview_en_001
+TITLE: Lotus Cup of Tutankhamun – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Lotus Cup
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, lotus cup, rebirth, alabaster
+
+TEXT:
+The Lotus Cup of Tutankhamun, often called the Wishing Cup, is a finely carved alabaster vessel shaped as an open white lotus flower. It was found in the tomb of the young pharaoh and is deeply connected to rebirth symbolism.
+
+
+
+ID: gem_tut_lotus_cup_details_en_002
+TITLE: Lotus Cup – Design and Figures
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Lotus Cup
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: Heh, eternity, ankh, shen sign
+
+TEXT:
+The cup features handles shaped as blue lotus flowers supporting baskets with kneeling figures of Heh, god of eternity. Heh holds ankh signs and palm branches resting on tadpoles and shen symbols, representing infinite life and time.
+
+
+
+ID: gem_tut_lotus_cup_function_en_003
+TITLE: Lotus Cup – Symbolic Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Lotus Cup
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: rebirth, sun cycle, afterlife wishes
+
+TEXT:
+The lotus symbolized regeneration, as it closed at night and opened at dawn. Inscriptions on the cup express wishes for eternal life, health, and happiness, reinforcing the belief in the king’s rebirth in the afterlife.
+
+
+
+ID: gem_tut_lotus_cup_faq_en_004
+TITLE: Lotus Cup – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Lotus Cup
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, lotus symbolism, eternity
+
+TEXT:
+Q: Why is the lotus important?
+A: It symbolized rebirth.
+
+Q: Who is Heh?
+A: The god of eternity.
+
+Q: Was this cup used in life?
+A: It was primarily symbolic.

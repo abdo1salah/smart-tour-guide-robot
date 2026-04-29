@@ -1,0 +1,122 @@
+ID: gem_ptah_ramesses2_sekhmet_overview_en_001
+TITLE: Statue of God Ptah, King Ramesses II, and Goddess Sekhmet – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Statue of God Ptah, King Ramesses II, and Goddess Sekhmet
+PERIOD: New Kingdom – 19th Dynasty (Reign of Ramesses II, c. 1279–1213 BCE)
+TYPE: overview
+TAGS: Ptah, Ramesses II, Sekhmet, triad statue, red granite, New Kingdom, royal devotion, divine legitimacy
+
+TEXT:
+A colossal red granite statue group depicting the triad of God Ptah, Pharaoh Ramesses II, and Goddess Sekhmet. It represents the divine and royal unity central to Ancient Egyptian religious and political ideology. Discovered near the Temple of Heryshef at Herakleopolis Magna, the statue exemplifies royal devotion and divine legitimacy.
+
+
+
+ID: gem_ptah_ramesses2_sekhmet_details_en_002
+TITLE: Statue of God Ptah, King Ramesses II, and Goddess Sekhmet – Materials and Artistic Features
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Statue of God Ptah, King Ramesses II, and Goddess Sekhmet
+PERIOD: New Kingdom – 19th Dynasty (Reign of Ramesses II, c. 1279–1213 BCE)
+TYPE: details
+TAGS: red granite, Ptah, Sekhmet, khepresh crown, shendyt, crook, sun disk, uraeus, New Kingdom art
+
+TEXT:
+Material: Red granite. Height: 350 cm | Width: 265 cm | Length: 275 cm. Ptah is depicted mummy-shaped, with skull cap and royal beard, holding a staff. Sekhmet, the lion-headed goddess, is crowned with a sun disk and uraeus (cobra). Ramesses II wears the blue khepresh crown, royal kilt (shendyt), and carries a crook — symbolizing kingship. Exceptional anatomical detailing—prominent collarbones, musculature, and kneecaps reflect masterful craftsmanship of New Kingdom artists.
+
+
+
+ID: gem_ptah_ramesses2_sekhmet_function_en_003
+TITLE: Statue of God Ptah, King Ramesses II, and Goddess Sekhmet – Function / Purpose
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Statue of God Ptah, King Ramesses II, and Goddess Sekhmet
+PERIOD: New Kingdom – 19th Dynasty (Reign of Ramesses II, c. 1279–1213 BCE)
+TYPE: significance
+TAGS: religious monument, political monument, temple offering, divine endorsement, worship
+
+TEXT:
+The statue served as a religious and political monument, symbolizing Ramesses II’s divine endorsement by Ptah and Sekhmet. It functioned as a permanent offering to the gods in temple complexes. It was likely displayed in or near a temple courtyard, where worshippers could venerate both deity and king.
+
+
+
+ID: gem_ptah_ramesses2_sekhmet_history_en_004
+TITLE: Statue of God Ptah, King Ramesses II, and Goddess Sekhmet – Historical Context
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Statue of God Ptah, King Ramesses II, and Goddess Sekhmet
+PERIOD: New Kingdom – 19th Dynasty (Reign of Ramesses II, c. 1279–1213 BCE)
+TYPE: historical_background
+TAGS: Ramesses II, Ptah, Sekhmet, Memphite Triad, temple art, New Kingdom religion
+
+TEXT:
+Ramesses II, one of Egypt’s most powerful pharaohs, ruled during a period of architectural grandeur and intense temple building devoted to both himself and Egypt’s primary gods. Ptah was the creator god of Memphis, patron of craftsmen. Sekhmet, the warrior and healing goddess, was his consort. Together, they formed part of the Memphite Triad (Ptah–Sekhmet–Nefertum), embodying kingship, creation, and protection. The statue reflects New Kingdom religious philosophy, in which the pharaoh’s divine essence was continually reinforced through temple art.
+
+
+
+ID: gem_ptah_ramesses2_sekhmet_location_en_005
+TITLE: Statue of God Ptah, King Ramesses II, and Goddess Sekhmet – Original Location
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Statue of God Ptah, King Ramesses II, and Goddess Sekhmet
+PERIOD: New Kingdom – 19th Dynasty (Reign of Ramesses II, c. 1279–1213 BCE)
+TYPE: historical_background
+TAGS: Herakleopolis Magna, Temple of Heryshef, Ihnasya el-Medina, cult center
+
+TEXT:
+Originally found near the Temple of Heryshef at Herakleopolis Magna (modern Ihnasya el-Medina) in Upper Egypt. This region was an important local cult center during the New Kingdom.
+
+
+
+ID: gem_ptah_ramesses2_sekhmet_discovery_en_006
+TITLE: Statue of God Ptah, King Ramesses II, and Goddess Sekhmet – Discovery / Archaeology
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Statue of God Ptah, King Ramesses II, and Goddess Sekhmet
+PERIOD: New Kingdom – 19th Dynasty (Reign of Ramesses II, c. 1279–1213 BCE)
+TYPE: historical_background
+TAGS: discovery, archaeology, 1904, Temple of Heryshef, Harsaphes, Sekhmet
+
+TEXT:
+Date of Discovery: 1904. Excavation Site: Near the courtyard of the Temple of Heryshef, Herakleopolis Magna. Inscriptions indicate that the current representation of Sekhmet replaced an earlier depiction of Harsaphes, the ram-headed local god of Herakleopolis—illustrating shifting religious emphasis.
+
+
+
+ID: gem_ptah_ramesses2_sekhmet_symbolism_en_007
+TITLE: Statue of God Ptah, King Ramesses II, and Goddess Sekhmet – Symbolism or Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Statue of God Ptah, King Ramesses II, and Goddess Sekhmet
+PERIOD: New Kingdom – 19th Dynasty (Reign of Ramesses II, c. 1279–1213 BCE)
+TYPE: significance
+TAGS: symbolism, Ptah, Sekhmet, Ramesses II, Maat, cosmic order
+
+TEXT:
+Ptah symbolizes creation, craftsmanship, and stability. Sekhmet symbolizes power, protection, and the destructive/fire aspect of the sun. Ramesses II symbolizes divine rulership and eternal kingship. The triadic composition visually proclaims the union of divine creation, royal authority, and cosmic protection—core to Egyptian belief in Maat (cosmic order).
+
+
+
+ID: gem_ptah_ramesses2_sekhmet_faq_en_008
+TITLE: Statue of God Ptah, King Ramesses II, and Goddess Sekhmet – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Statue of God Ptah, King Ramesses II, and Goddess Sekhmet
+PERIOD: New Kingdom – 19th Dynasty
+TYPE: faq
+TAGS: visitor questions, Ptah, Sekhmet, Ramesses II, Grand Stairs, GEM
+
+TEXT:
+Q: Where can I see this statue?
+A: It is displayed along the Grand Stairs of the Grand Egyptian Museum in Giza.
+
+Q: How large is it?
+A: Approximately 3.5 meters tall and carved entirely from a single block of red granite.
+
+Q: Who was Ramesses II?
+A: One of Egypt’s most famous pharaohs (reigning 1279–1213 BCE), known for massive building projects and celebrated as “Ramesses the Great.”
+
+Q: Why is Sekhmet often paired with Ptah?
+A: She is his divine consort; together, they represent two forces of creation—craftsmanship (Ptah) and powerful energy (Sekhmet).
+
+Q: Was the statue restored or altered?
+A: Yes, inscriptions indicate Sekhmet’s figure replaced an older depiction of Harsaphes, showing adaptation of older religious forms.

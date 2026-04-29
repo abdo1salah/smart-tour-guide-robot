@@ -1,0 +1,60 @@
+ID: gem_tut_royal_diadem_overview_en_001
+TITLE: Royal Diadem of Tutankhamun – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Royal Diadem
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, royal regalia, diadem, protective magic
+
+TEXT:
+The Royal Diadem is a gold headband found encircling Tutankhamun’s head beneath the funerary mask. It secured the king’s wig and provided divine protection.
+
+
+
+ID: gem_tut_royal_diadem_details_en_002
+TITLE: Royal Diadem of Tutankhamun – Design
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Royal Diadem
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: gold, carnelian, uraeus, vulture goddess
+
+TEXT:
+The fillet is decorated with carnelian roundels and blue glass squares. At the front are removable figures of the vulture goddess Nekhbet and the cobra goddess Wadjet.
+
+
+
+ID: gem_tut_royal_diadem_function_en_003
+TITLE: Royal Diadem of Tutankhamun – Symbolism
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Royal Diadem
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: Upper and Lower Egypt, royal legitimacy, magical protection
+
+TEXT:
+The vulture and cobra symbolize sovereignty over Upper and Lower Egypt. Worn in life and death, the diadem served as both regalia and magical protection.
+
+
+
+ID: gem_tut_royal_diadem_faq_en_004
+TITLE: Royal Diadem of Tutankhamun – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Royal Diadem
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, royal symbols, diadem
+
+TEXT:
+Q: Why two animals?
+A: They represent united Egypt.
+
+Q: Was it worn in life?
+A: Yes.
+
+Q: Why gold?
+A: Gold symbolized eternity.

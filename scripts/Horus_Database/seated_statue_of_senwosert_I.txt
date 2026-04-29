@@ -1,0 +1,88 @@
+ID: gem_senwosert1_seated_overview_en_001
+TITLE: Seated Statue of Senwosert I – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Seated Statue of Senwosert I
+PERIOD: Middle Kingdom, Dynasty 12 (c. 1971–1926 BCE)
+TYPE: overview
+TAGS: Senwosert I, Middle Kingdom, seated statue, royal sculpture, Dynasty 12
+
+TEXT:
+This granite seated statue depicts King Senwosert I enthroned in a calm and authoritative pose. Created during the Middle Kingdom, it presents the king as an ideal ruler whose power is stable, restrained, and divinely sanctioned. The statue comes from the king’s funerary temple at El-Lisht.
+
+
+
+ID: gem_senwosert1_seated_details_en_002
+TITLE: Seated Statue of Senwosert I – Artistic Features
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Seated Statue of Senwosert I
+PERIOD: Middle Kingdom, Dynasty 12 (c. 1971–1926 BCE)
+TYPE: details
+TAGS: granite, nemes headdress, sema-tawy, Egyptian art
+
+TEXT:
+Senwosert I is shown wearing the traditional nemes headdress and seated on a throne decorated with the sema-tawy symbol, representing the unification of Upper and Lower Egypt. The statue’s balanced proportions, smooth surfaces, and controlled posture reflect the Middle Kingdom ideal of harmony, order, and disciplined kingship.
+
+
+
+ID: gem_senwosert1_seated_function_en_003
+TITLE: Seated Statue of Senwosert I – Function and Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Seated Statue of Senwosert I
+PERIOD: Middle Kingdom, Dynasty 12 (c. 1971–1926 BCE)
+TYPE: significance
+TAGS: funerary temple, royal power, cosmic order, Middle Kingdom ideology
+
+TEXT:
+This statue was one of a group of ten similar figures placed in the king’s funerary temple. Together, they acted as conduits of royal power, ensuring the king’s eternal presence and protecting cosmic order. Temple visitors would have encountered these statues as visual expressions of stability and continuity.
+
+
+
+ID: gem_senwosert1_seated_context_en_004
+TITLE: Seated Statue of Senwosert I – Original Context
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Seated Statue of Senwosert I
+PERIOD: Middle Kingdom, Dynasty 12 (c. 1971–1926 BCE)
+TYPE: historical_background
+TAGS: El-Lisht, funerary temple, royal cult
+
+TEXT:
+The statue originated from Senwosert I’s funerary temple at El-Lisht, a major royal site of the 12th Dynasty. Its placement within a temple complex linked the king’s image with ongoing ritual activity, reinforcing his divine status long after his death.
+
+
+
+ID: gem_senwosert1_seated_history_en_005
+TITLE: Seated Statue of Senwosert I – Historical Background
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Seated Statue of Senwosert I
+PERIOD: Middle Kingdom, Dynasty 12 (c. 1971–1926 BCE)
+TYPE: historical_background
+TAGS: Middle Kingdom, state stability, royal ideology, Egyptian kingship
+
+TEXT:
+Senwosert I ruled during a period of political stability, centralization, and extensive building activity. His reign strengthened religious festivals and state institutions following earlier fragmentation. Statues like this express the Middle Kingdom vision of kingship based on order, unity, and measured authority.
+
+
+
+ID: gem_senwosert1_seated_faq_en_006
+TITLE: Seated Statue of Senwosert I – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Seated Statue of Senwosert I
+PERIOD: Middle Kingdom, Dynasty 12
+TYPE: faq
+TAGS: visitor questions, Middle Kingdom kings, Egyptian statues
+
+TEXT:
+Q: Why is the king shown seated and calm?
+A: Middle Kingdom art emphasized stability and order rather than aggressive power.
+
+Q: What does the sema-tawy symbol mean?
+A: It represents the unification of Upper and Lower Egypt.
+
+Q: Where was the statue found?
+A: In the funerary temple of Senwosert I at El-Lisht.

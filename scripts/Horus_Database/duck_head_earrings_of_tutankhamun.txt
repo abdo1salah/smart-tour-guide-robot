@@ -1,0 +1,74 @@
+ID: gem_tut_duck_earrings_overview_en_001
+TITLE: Duck Head Earrings – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Duck Head Earrings
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, royal jewelry, earrings, funerary adornment
+
+TEXT:
+These elaborate earrings were worn by Tutankhamun and attached by small tubes that passed through pierced earlobes. Each tube is sealed with round disks of transparent quartz, highlighting the luxury of royal adornment.
+
+
+
+ID: gem_tut_duck_earrings_details_en_002
+TITLE: Duck Head Earrings – Design and Iconography
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Duck Head Earrings
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: uraeus, shen sign, royal portrait, Egyptian jewelry
+
+TEXT:
+The front panels display tiny portraits of the king framed by two uraeus snakes. The design combines royal imagery with sacred symbols, including composite birds and protective signs associated with eternity and divine safeguarding.
+
+
+
+ID: gem_tut_duck_earrings_function_en_003
+TITLE: Duck Head Earrings – Symbolic Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Duck Head Earrings
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: divine protection, eternal life, royal identity
+
+TEXT:
+Jewelry in the 18th Dynasty carried deep symbolic meaning. These earrings merged royal identity with motifs of protection and rebirth, reinforcing the king’s divine status in both life and the afterlife.
+
+
+
+ID: gem_tut_duck_earrings_history_en_004
+TITLE: Duck Head Earrings – Craftsmanship
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Duck Head Earrings
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: historical_background
+TAGS: royal workshops, goldsmiths, New Kingdom art
+
+TEXT:
+The earrings demonstrate the exceptional skill of royal goldsmiths, combining multicolored inlays, miniature portraiture, and complex symbolism into a single object. They exemplify the sophistication of New Kingdom funerary jewelry.
+
+
+
+ID: gem_tut_duck_earrings_faq_en_005
+TITLE: Duck Head Earrings – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Duck Head Earrings
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, royal jewelry, Tutankhamun
+
+TEXT:
+Q: Did Tutankhamun wear these in life?
+A: Yes, they were worn by the king.
+
+Q: Why are snakes shown?
+A: Uraei symbolized royal protection.
+
+Q: Why include birds?
+A: Birds were linked to rebirth and the soul.

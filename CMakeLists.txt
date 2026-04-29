@@ -33,8 +33,16 @@ if(BUILD_TESTING)
 endif()
 
 install(
-  DIRECTORY config description launch worlds
+  DIRECTORY config description launch worlds maps
   DESTINATION share/${PROJECT_NAME}
+)
+install(PROGRAMS
+  scripts/waypoint_node.py  # Make sure this path matches where you saved the file!
+  DESTINATION lib/${PROJECT_NAME}
+)
+install(PROGRAMS
+  scripts/live_horus.py  # Make sure this path matches where you saved the file!
+  DESTINATION lib/${PROJECT_NAME}
 )
 
 ament_package()

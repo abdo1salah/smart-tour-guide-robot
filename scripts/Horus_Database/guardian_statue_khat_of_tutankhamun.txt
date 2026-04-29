@@ -1,0 +1,74 @@
+ID: gem_tut_guardian_khat_overview_en_001
+TITLE: Guardian Statue of Tutankhamun – Khat Headdress (Overview)
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Guardian Statue with Khat Headdress
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, guardian statue, khat headdress, tomb protection
+
+TEXT:
+This life-size guardian statue of Tutankhamun stood at the sealed entrance to his Burial Chamber, one of a pair positioned face to face. The two statues may have represented the king and his ka, emphasizing protection and eternal presence at the threshold of the burial space.
+
+
+
+ID: gem_tut_guardian_khat_details_en_002
+TITLE: Guardian Statue of Tutankhamun – Khat (Features)
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Guardian Statue with Khat Headdress
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: wood core, black resin, gilding, mace, staff, uraeus
+
+TEXT:
+The statue has a wooden core coated with black resin and gilded accents. Tutankhamun wears a khat headdress and a pleated royal kilt, and holds a mace and a long staff. A cobra uraeus on the forehead symbolizes royal protection.
+
+
+
+ID: gem_tut_guardian_khat_function_en_003
+TITLE: Guardian Statue of Tutankhamun – Protective Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Guardian Statue with Khat Headdress
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: Osiris, afterlife, guardian figures, tomb doorway
+
+TEXT:
+The black coloration links the king to Osiris, god of the afterlife, reinforcing the theme of resurrection. As a guardian figure, the statue protected the tomb entrance and signaled that the king remained divinely empowered even in death.
+
+
+
+ID: gem_tut_guardian_khat_inscription_en_004
+TITLE: Guardian Statue of Tutankhamun – Inscription
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Guardian Statue with Khat Headdress
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: Nebkheperure, royal titles, hieroglyphs
+
+TEXT:
+An inscription on the kilt includes royal titles and names, identifying the king as Nebkheperure and emphasizing justified status in the afterlife. Such inscriptions strengthened the statue’s ritual role as both image and protective presence.
+
+
+
+ID: gem_tut_guardian_khat_faq_en_005
+TITLE: Guardian Statue of Tutankhamun – Khat (FAQ)
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Guardian Statue with Khat Headdress
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, ka, tomb guardians
+
+TEXT:
+Q: Why were two guardian statues placed at the doorway?
+A: To protect the burial chamber and represent the king’s continuing presence.
+
+Q: What is the ka?
+A: A spiritual aspect of the person, often translated as life-force.
+
+Q: Why is the statue black?
+A: Black is linked to Osiris and rebirth.

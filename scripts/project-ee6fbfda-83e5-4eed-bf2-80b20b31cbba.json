@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "project-ee6fbfda-83e5-4eed-bf2",
+  "private_key_id": "80b20b31cbbae8c57fa8b71c0854d3049787ba3e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3ldR7I8QwxsnS\n5pSQchNmwSr+7rMz2krdgm9gWwip7XSUH47qmRvqhGz9i1w3VAOrJywJY/hntMsn\nJuB1CmG+0q2goRetxU18OLvCPOYlAUp/DLI39P13moYM6CrUinei0SuXbOtxIKzk\nPd466+KJ/bFnihKC6fxaN8+76ApAjiErKpWQ46W9XgwWn35IEg15JB1o9n+sKve+\nrofzdTlf3EMdBwpEIFUG6J3nfSwFgc9RKp7yUkkmoVy2iSGL9XYK8ilqwgmSa6h3\nUx50YQYpIvf+t6aU6f0OQbE8xt8w1CqdfMirPjI2GBBpWqvWLltJDvJKJcjoxZft\nDrWgv1hdAgMBAAECggEABW+hFfqyOkHZ+ONS1lpzuHOeAY78DPFuN+lpwV1otVlp\nPeKXrDAs8LCLpqVRWCJmJROuR4082NtJtwbSbNIfdf5N3bIEyLnifbwTU+DS7W5r\nRYr7cvyPjdKsR1EPmvFfsgPwvxWJUjVQu/BuC79vhZJWxgquBM+HZVIo60w8viUP\nu4GtuiBSRSxJiYrQy5c1xiQQK/XOZ9IEnmUXgZ4x1ut2rK7TXRjbfrXQYkK380TX\n1FweNSmjQ0g0Ooa0qeamGG67+YaQ/967htru6IL8sZkgoLgTKFutegr7g+XeBtjC\nMq6GM6MQu+UCmqoIqfiNiEH2ShDuX7eQ1/Ftp426iQKBgQDkMgWm1TiIDysV3Bo1\nFuFTQKtcUccCSf9BvQroRfXdZ/shSD2YYTlAzZkNmIplYqj6TYfPnGXNpYGMEJzq\nDs1JrlgZse1wlxU3wvHmFF4KjWGdPjUg3TsAJ3bcNnUOiKTf4SkPmH1wOicZzxrw\nEdig0OMVJTfLwYeWQVm5ou+YdQKBgQDN9E7XTJjeqvhwYAyOsWHMFRKpoLxuGN3l\n0QsM49rI6EiyvGoxcWxOHc8StilaA22Uci4biW/DRJmKvp9LOs3rSvrm+suq8TF4\n+JCyxS93qsYQErOibgR4pUGB9uO6Pxhz+q85ZfVr5rbMUkp2rHY+/DN8qehx+FeJ\nLvatnKWDSQKBgBtJtA1QQBNdJPzXNjcVBlrrR9KhYNfwO1sEHTLLcuxIC+rd9aes\nMKmELIJItHwNQUG1VcFI5Y+i9AvozKrcnEXsWFKyST+GgZ4KbNzjoJ9Iatzf3ICS\nlASfs4H/7R2Qz46KIVvhE1cBTT2z23fL2ojYkd8sdTCjcvBP3kfpqRclAoGALeGn\nTr95ruFXx3EeWwuZReXL6o4sbDqN9IzFcXGxY+CbkXX4Elu6TQzG/NwoCi2JU/C7\n5NaRV2cI7afZxOCszyY9DwgAJ2zkIJb/ZVQYZwhcZ2hDLIRl6pqmJVXjFbLIt825\nC4hzTD5xqsMKY7W4AgAdWEBh0EIK/jzAJ50mIkECgYEAjXIAdnxAwthg2dQWx47T\nA88LceHkykfIMv78ZYaQ6txNbvLRgZomf8WFC3z+c+Y38IDnb3Scra34OJTxrGaN\nMvIY0jPAsCqFaB4IiOuSsmSw4jd0poiP51C4w9XwhClb77Fvwi0zIuiuFSxlCzPR\n4f/M5YCs+dSckYsEU+FRflg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "horus-bot-audio@project-ee6fbfda-83e5-4eed-bf2.iam.gserviceaccount.com",
+  "client_id": "106284810348219454837",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/horus-bot-audio%40project-ee6fbfda-83e5-4eed-bf2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

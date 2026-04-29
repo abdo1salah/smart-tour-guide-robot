@@ -1,0 +1,74 @@
+ID: gem_tut_canopic_chest_overview_en_001
+TITLE: Canopic Chest of Tutankhamun – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Chest
+PERIOD: New Kingdom, Dynasty 18
+TYPE: overview
+TAGS: Tutankhamun, canopic chest, funerary equipment, New Kingdom
+
+TEXT:
+This finely crafted canopic chest was placed inside Tutankhamun’s canopic shrine and served as the container for the king’s preserved internal organs. Designed as a miniature ritual sanctuary, it reflects the central role of organ preservation in royal burials of the New Kingdom.
+
+
+
+ID: gem_tut_canopic_chest_details_en_002
+TITLE: Canopic Chest of Tutankhamun – Design and Contents
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Chest
+PERIOD: New Kingdom, Dynasty 18
+TYPE: details
+TAGS: gold foil, ritual shrine, royal imagery, canopic equipment
+
+TEXT:
+The chest features a sloping lid once secured with linen cords and rests on a wooden sledge covered in gold foil. Inside are four cylindrical compartments, each holding a solid gold miniature coffin. The cavities are sealed with stoppers carved as royal heads with painted facial details.
+
+
+
+ID: gem_tut_canopic_chest_function_en_003
+TITLE: Canopic Chest of Tutankhamun – Function and Belief
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Chest
+PERIOD: New Kingdom, Dynasty 18
+TYPE: significance
+TAGS: embalming, afterlife, royal regeneration, funerary belief
+
+TEXT:
+Canopic chests were essential to royal burials, housing the embalmed organs believed necessary for the king’s spiritual regeneration. Tutankhamun’s chest reflects the renewed emphasis on traditional funerary beliefs following the Amarna period, highlighting divine protection and ritual completeness.
+
+
+
+ID: gem_tut_canopic_chest_guardians_en_004
+TITLE: Canopic Chest of Tutankhamun – Protective Deities
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Chest
+PERIOD: New Kingdom, Dynasty 18
+TYPE: historical_background
+TAGS: Four Sons of Horus, protective goddesses, funerary magic
+
+TEXT:
+The chest was protected by the Four Sons of Horus and four goddesses, each guarding a specific organ. This system formed a balanced network of divine protection, ensuring the preservation of the king’s physical essence and his successful resurrection in the afterlife.
+
+
+
+ID: gem_tut_canopic_chest_faq_en_005
+TITLE: Canopic Chest of Tutankhamun – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Canopic Chest
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, canopic jars, Tutankhamun burial
+
+TEXT:
+Q: What was kept inside the canopic chest?
+A: The king’s embalmed internal organs.
+
+Q: Why was the chest designed like a shrine?
+A: To emphasize its sacred and protective function.
+
+Q: Why are there four compartments?
+A: Each held an organ protected by a Son of Horus and a goddess.

@@ -1,0 +1,122 @@
+ID: gem_hatshepsut_pyramidion_overview_en_001
+TITLE: Pyramidion of an Obelisk of Queen Hatshepsut – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Pyramidion of an Obelisk of Queen Hatshepsut
+PERIOD: New Kingdom – 18th Dynasty (Reign of Hatshepsut, c. 1479–1458 BCE)
+TYPE: overview
+TAGS: Hatshepsut, obelisk pyramidion, Karnak Temple, Amun-Ra, solar symbolism
+
+TEXT:
+This pyramid-shaped capstone, known as a pyramidion, once formed the top of one of Queen Hatshepsut’s monumental obelisks at Karnak Temple. Carved from pink Aswan granite and originally covered with electrum, the pyramidion would have reflected sunlight brilliantly. Its surfaces bear reliefs of Hatshepsut offering to the god Amun-Ra, linking the monument to royal devotion and solar symbolism.
+
+
+
+ID: gem_hatshepsut_pyramidion_details_en_002
+TITLE: Pyramidion of an Obelisk of Queen Hatshepsut – Materials and Artistic Features
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Pyramidion of an Obelisk of Queen Hatshepsut
+PERIOD: New Kingdom – 18th Dynasty
+TYPE: details
+TAGS: pink granite, electrum, hieroglyphs, obelisk capstone
+
+TEXT:
+The pyramidion is carved from highly polished pink granite quarried in Aswan. Each of its four sides features sunk relief inscriptions and scenes showing the pharaoh kneeling before Amun-Ra. The upper portion was once covered with electrum, a gold-silver alloy that allowed the capstone to gleam in sunlight. Much of this metal covering has been lost due to ancient damage.
+
+
+
+ID: gem_hatshepsut_pyramidion_function_en_003
+TITLE: Pyramidion of an Obelisk of Queen Hatshepsut – Function / Purpose
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Pyramidion of an Obelisk of Queen Hatshepsut
+PERIOD: New Kingdom – 18th Dynasty
+TYPE: significance
+TAGS: temple monument, solar symbolism, obelisk architecture
+
+TEXT:
+The pyramidion served as the capstone of a monumental obelisk, a sacred structure erected in temple complexes. Obelisks symbolized rays of the sun and acted as markers of divine presence. The shining pyramidion at the top of the obelisk directed sunlight toward the temple, reinforcing the connection between the pharaoh, the sun god Ra, and the god Amun.
+
+
+
+ID: gem_hatshepsut_pyramidion_history_en_004
+TITLE: Pyramidion of an Obelisk of Queen Hatshepsut – Historical Context
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Pyramidion of an Obelisk of Queen Hatshepsut
+PERIOD: New Kingdom – 18th Dynasty (Reign of Hatshepsut)
+TYPE: historical_background
+TAGS: Hatshepsut, Karnak Temple, temple construction, female pharaoh
+
+TEXT:
+Queen Hatshepsut commissioned the obelisk pair during her sixteenth regnal year as part of an ambitious building program at Karnak Temple dedicated to the god Amun. Her monuments emphasized divine approval of her rule as a female pharaoh. The obelisks demonstrated Egypt’s wealth, engineering skill, and religious devotion during the height of the New Kingdom empire.
+
+
+
+ID: gem_hatshepsut_pyramidion_location_en_005
+TITLE: Pyramidion of an Obelisk of Queen Hatshepsut – Original Location
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Pyramidion of an Obelisk of Queen Hatshepsut
+PERIOD: New Kingdom – 18th Dynasty
+TYPE: historical_background
+TAGS: Karnak Temple, Thebes, Amun-Re complex
+
+TEXT:
+The pyramidion originally stood at the top of the northern obelisk erected by Hatshepsut at the eastern entrance of Karnak Temple, part of the vast temple complex dedicated to Amun-Re in ancient Thebes (modern Luxor).
+
+
+
+ID: gem_hatshepsut_pyramidion_discovery_en_006
+TITLE: Pyramidion of an Obelisk of Queen Hatshepsut – Discovery / Archaeology
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Pyramidion of an Obelisk of Queen Hatshepsut
+PERIOD: Modern archaeological history
+TYPE: historical_background
+TAGS: Karnak excavations, temple debris, ancient damage
+
+TEXT:
+The pyramidion fell from the obelisk in antiquity, possibly due to earthquake damage or structural collapse. It was later recovered during archaeological work among the temple debris at Karnak. While the main shaft of Hatshepsut’s obelisk still stands at the site, the capstone was separated and preserved as an important artifact of her monument.
+
+
+
+ID: gem_hatshepsut_pyramidion_symbolism_en_007
+TITLE: Pyramidion of an Obelisk of Queen Hatshepsut – Symbolism or Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Pyramidion of an Obelisk of Queen Hatshepsut
+PERIOD: New Kingdom – 18th Dynasty
+TYPE: significance
+TAGS: benben stone, solar creation, divine kingship
+
+TEXT:
+The pyramidion symbolized the benben stone, the sacred mound of creation in Egyptian mythology. Its shining electrum surface represented the rays of the sun god Ra. Through inscriptions and imagery, the monument proclaimed Hatshepsut as the chosen ruler of Amun and affirmed the unity of solar power and royal authority.
+
+
+
+ID: gem_hatshepsut_pyramidion_faq_en_008
+TITLE: Pyramidion of an Obelisk of Queen Hatshepsut – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Pyramidion of an Obelisk of Queen Hatshepsut
+PERIOD: New Kingdom – 18th Dynasty
+TYPE: faq
+TAGS: visitor questions, Hatshepsut, obelisks
+
+TEXT:
+Q: Where is the pyramidion now?
+A: It is preserved in the Egyptian Museum in Cairo, while the surviving obelisk shaft still stands at Karnak Temple in Luxor.
+
+Q: Why is only the top preserved?
+A: The pyramidion separated from the obelisk after the monument collapsed or was damaged in antiquity.
+
+Q: Was it covered in gold?
+A: The capstone was originally coated with electrum, a gold-silver alloy that reflected sunlight.
+
+Q: How large was the original obelisk?
+A: Hatshepsut’s obelisk stood about 29.5 meters tall and weighed roughly 320 tons.
+
+Q: How were obelisks constructed?
+A: They were quarried from granite in Aswan and transported to temples, where ramps and lifting techniques were used to raise them upright.

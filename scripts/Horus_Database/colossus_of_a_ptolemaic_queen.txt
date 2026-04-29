@@ -1,0 +1,88 @@
+ID: gem_ptolemaic_queen_colossus_overview_en_001
+TITLE: Colossus of a Ptolemaic Queen – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Colossus of a Ptolemaic Queen
+PERIOD: Ptolemaic (c. 305–30 BCE)
+TYPE: overview
+TAGS: Ptolemaic queen, colossal statue, Isis, Thonis-Heracleion, royal women
+
+TEXT:
+This monumental statue represents a Ptolemaic queen, possibly Cleopatra II or Cleopatra III, and was recovered from the submerged city of Thonis-Heracleion. She is shown wearing a pleated dress and a distinctive crown associated with the goddess Isis. The statue presents the queen as both a royal figure and a divine embodiment.
+
+
+
+ID: gem_ptolemaic_queen_colossus_details_en_002
+TITLE: Colossus of a Ptolemaic Queen – Artistic Features
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Colossus of a Ptolemaic Queen
+PERIOD: Ptolemaic (c. 305–30 BCE)
+TYPE: details
+TAGS: Greek-Egyptian style, Isis crown, royal iconography, Ptolemaic art
+
+TEXT:
+The queen’s features blend Greek naturalism with Egyptian idealization, reflecting the dual cultural identity of the Ptolemaic court. Her crown links her directly to Isis, reinforcing her divine status, while the formal stance and attire follow long-established Egyptian royal conventions.
+
+
+
+ID: gem_ptolemaic_queen_colossus_context_en_003
+TITLE: Colossus of a Ptolemaic Queen – Original Setting
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Colossus of a Ptolemaic Queen
+PERIOD: Ptolemaic (c. 305–30 BCE)
+TYPE: significance
+TAGS: temple entrance, royal pair, divine protection, Amun-Gereb
+
+TEXT:
+The statue was intended to stand alongside the colossus of the Ptolemaic king at the entrance to a temple, likely that of Amun-Gereb. Together, the pair presented a unified image of royal and divine authority, protecting the sacred precinct and reinforcing dynastic legitimacy.
+
+
+
+ID: gem_ptolemaic_queen_colossus_discovery_en_004
+TITLE: Colossus of a Ptolemaic Queen – Discovery and Recovery
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Colossus of a Ptolemaic Queen
+PERIOD: Ptolemaic (c. 305–30 BCE)
+TYPE: historical_background
+TAGS: underwater archaeology, submerged city, Thonis-Heracleion, archaeological discovery
+
+TEXT:
+Recovered from the sea at Thonis-Heracleion, the statue highlights the achievements of modern underwater archaeology. Its preservation underwater and subsequent excavation have contributed significantly to understanding Egypt’s submerged heritage and coastal religious centers.
+
+
+
+ID: gem_ptolemaic_queen_colossus_history_en_005
+TITLE: Colossus of a Ptolemaic Queen – Historical Background
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Colossus of a Ptolemaic Queen
+PERIOD: Ptolemaic (c. 305–30 BCE)
+TYPE: historical_background
+TAGS: Ptolemaic queens, Isis cult, female power, Hellenistic Egypt
+
+TEXT:
+Ptolemaic queens were influential figures in political and religious life, often revered as living manifestations of Isis. By presenting themselves as both rulers and goddesses, they secured legitimacy among Egyptian and Greek subjects alike. This statue reflects how female power and divine identity were central to Ptolemaic kingship.
+
+
+
+ID: gem_ptolemaic_queen_colossus_faq_en_006
+TITLE: Colossus of a Ptolemaic Queen – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Colossus of a Ptolemaic Queen
+PERIOD: Ptolemaic (c. 305–30 BCE)
+TYPE: faq
+TAGS: visitor questions, Ptolemaic queens, Isis symbolism
+
+TEXT:
+Q: Which queen does the statue represent?
+A: It may depict Cleopatra II or Cleopatra III, though the exact identity is uncertain.
+
+Q: Why is the queen associated with Isis?
+A: Ptolemaic queens were often identified with Isis to emphasize divine legitimacy.
+
+Q: Where was it found?
+A: In the submerged city of Thonis-Heracleion.

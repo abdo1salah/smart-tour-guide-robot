@@ -1,0 +1,60 @@
+ID: gem_tut_outer_coffin_overview_en_001
+TITLE: Outer Coffin of Tutankhamun – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Outer Coffin
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, coffin, Osiris, royal burial
+
+TEXT:
+The Outer Coffin is the largest of three coffins placed inside Tutankhamun’s sarcophagus. It depicts the king as a mummified figure with crossed arms, holding the crook and flail.
+
+
+
+ID: gem_tut_outer_coffin_details_en_002
+TITLE: Outer Coffin of Tutankhamun – Materials and Design
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Outer Coffin
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: gilded wood, gold foil, anthropoid coffin
+
+TEXT:
+The coffin is made of wood covered with plaster, linen, and thin gold foil, while the face, hands, and neck are covered with thicker hammered gold. Its anthropoid form presents the king as the god Osiris.
+
+
+
+ID: gem_tut_outer_coffin_function_en_003
+TITLE: Outer Coffin of Tutankhamun – Religious Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Outer Coffin
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: resurrection, Book of the Dead, afterlife
+
+TEXT:
+Images of gods and protective spells from the Book of the Dead cover the surface. These inscriptions ensured safe passage and resurrection in the afterlife.
+
+
+
+ID: gem_tut_outer_coffin_faq_en_004
+TITLE: Outer Coffin of Tutankhamun – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Outer Coffin
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, Osiris, royal coffins
+
+TEXT:
+Q: Why three coffins?
+A: For layered protection.
+
+Q: Why crossed arms?
+A: They symbolize kingship.
+
+Q: Why gold?
+A: Gold represented divine flesh.

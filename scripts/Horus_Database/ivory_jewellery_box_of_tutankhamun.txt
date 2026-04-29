@@ -1,0 +1,74 @@
+ID: gem_tut_ivory_jewellery_box_overview_en_001
+TITLE: Ivory Jewellery Box – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Ivory Jewellery Box
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, ivory box, royal belongings, tomb objects
+
+TEXT:
+This small ivory jewellery box was found in the Antechamber of Tutankhamun’s tomb. It is made from blocks and panels of solid ivory and represents the luxury craftsmanship associated with royal personal items.
+
+
+
+ID: gem_tut_ivory_jewellery_box_details_en_002
+TITLE: Ivory Jewellery Box – Design and Materials
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Ivory Jewellery Box
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: ivory, gold fittings, lotus capital, cartouche
+
+TEXT:
+The box includes gold knobs, gold hinges, and gold feet. The back is decorated with a lotus-capital column motif, and the king’s names are carved on the front and in a band across the top, emphasizing ownership and royal identity.
+
+
+
+ID: gem_tut_ivory_jewellery_box_function_en_003
+TITLE: Ivory Jewellery Box – Function
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Ivory Jewellery Box
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: storage, personal items, royal regalia
+
+TEXT:
+Boxes like this were used to store valued personal or ceremonial items within the royal burial assemblage. Their materials and inscriptions show that even practical containers carried strong symbolic meaning and affirmed kingship.
+
+
+
+ID: gem_tut_ivory_jewellery_box_history_en_004
+TITLE: Ivory Jewellery Box – Historical Context
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Ivory Jewellery Box
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: historical_background
+TAGS: royal workshops, New Kingdom craftsmanship, tomb assemblage
+
+TEXT:
+The refined workmanship highlights the artistic standards of royal workshops in late Dynasty 18. Objects like this provide insight into the everyday luxury and ceremonial preparation that surrounded a king’s burial.
+
+
+
+ID: gem_tut_ivory_jewellery_box_faq_en_005
+TITLE: Ivory Jewellery Box – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Ivory Jewellery Box
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, ivory, royal names
+
+TEXT:
+Q: Why is the king’s name carved on the box?
+A: To mark royal ownership and reinforce identity.
+
+Q: What might it have contained?
+A: Small valuables, jewelry, or ceremonial items.
+
+Q: Why use ivory and gold?
+A: They signaled luxury and status.

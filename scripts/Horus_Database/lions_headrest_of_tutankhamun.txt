@@ -1,0 +1,60 @@
+ID: gem_tut_lions_headrest_overview_en_001
+TITLE: Lions Headrest – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Lions Headrest
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, headrest, lions, Shu, funerary furniture
+
+TEXT:
+This ivory headrest from Tutankhamun’s burial features a slim base and a central pillar carved as the god Shu, who raises the curved head support. Two crouching lions flank Shu, symbolizing guardianship of the horizon.
+
+
+
+ID: gem_tut_lions_headrest_details_en_002
+TITLE: Lions Headrest – Design and Iconography
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Lions Headrest
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: ivory carving, Shu, horizon guardians, Egyptian symbolism
+
+TEXT:
+Shu, god of air, is shown kneeling and lifting the headrest with raised arms, while the lions represent the eastern and western horizons. Black-painted details on Shu’s hair and kilt enhance the visual contrast and symbolic depth.
+
+
+
+ID: gem_tut_lions_headrest_function_en_003
+TITLE: Lions Headrest – Religious Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Lions Headrest
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: rebirth, cosmic order, afterlife belief
+
+TEXT:
+Headrests were linked to rebirth and awakening, as lifting the head symbolized rising to new life. The lions and Shu together express cosmic balance and protection during the king’s transition to the afterlife.
+
+
+
+ID: gem_tut_lions_headrest_faq_en_004
+TITLE: Lions Headrest – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Lions Headrest
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, Shu, lion symbolism
+
+TEXT:
+Q: Was this used for sleeping?
+A: Symbolically, not practically.
+
+Q: Who is Shu?
+A: The god of air.
+
+Q: Why lions?
+A: They guarded the horizons and protected rebirth.

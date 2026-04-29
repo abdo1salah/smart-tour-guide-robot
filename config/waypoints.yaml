@@ -1,0 +1,36 @@
+waypoints:
+  - name: "Colossal Statue of Ramesses"
+    pose:
+      position:
+        x: -0.09484720230102539
+        y: -3.88352632522583
+        z: 0.0
+      orientation:
+        x: 0.0
+        y: 0.0
+        z: 0.6789719077180558
+        w: 0.7343336701389926
+
+  - name: "Statue of God Ptah"
+    pose:
+      position:
+        x: -2.5847396850585938
+        y: -3.6881442070007324
+        z: 0.0
+      orientation:
+        x: 0.0
+        y: 0.0
+        z: 0.6865811680584782
+        w: 0.7270957803726196
+
+  - name: "Column of King Merenptah"
+    pose:
+      position:
+        x: 0.6982174657700517
+        y: -3.2499637603759766
+        z: 0.0
+      orientation:
+        x: 0.0
+        y: 0.0
+        z: 0.6982174657700517
+        w: 0.7158857244656068

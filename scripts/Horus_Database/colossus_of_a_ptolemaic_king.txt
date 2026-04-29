@@ -1,0 +1,88 @@
+ID: gem_ptolemaic_king_colossus_overview_en_001
+TITLE: Colossus of a Ptolemaic King – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Colossus of a Ptolemaic King
+PERIOD: Ptolemaic (c. 305–30 BCE)
+TYPE: overview
+TAGS: Ptolemaic, colossal statue, pharaoh, granite, Thonis-Heracleion
+
+TEXT:
+This granite colossus, over 5 meters high, depicts a Ptolemaic king dressed in traditional pharaonic regalia. He wears the double crown and a kilt, and his clenched right fist likely once held a royal insignia. Although the ruler was Greek by origin, the statue presents him as an Egyptian pharaoh to communicate legitimacy and authority.
+
+
+
+ID: gem_ptolemaic_king_colossus_details_en_002
+TITLE: Colossus of a Ptolemaic King – Artistic Features
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Colossus of a Ptolemaic King
+PERIOD: Ptolemaic (c. 305–30 BCE)
+TYPE: details
+TAGS: double crown, pharaonic regalia, Greek-Egyptian style, royal iconography
+
+TEXT:
+The statue blends Egyptian royal iconography—such as the double crown and formal stance—with stylistic choices associated with the Ptolemaic period. This fusion reflects how Ptolemaic rulers adopted Egyptian visual language to rule effectively, while still operating within a broader Hellenistic world.
+
+
+
+ID: gem_ptolemaic_king_colossus_context_en_003
+TITLE: Colossus of a Ptolemaic King – Original Setting
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Colossus of a Ptolemaic King
+PERIOD: Ptolemaic (c. 305–30 BCE)
+TYPE: significance
+TAGS: Amun-Gereb, temple entrance, guardianship, sacred precinct
+
+TEXT:
+The colossus originally stood outside the temple of Amun-Gereb, where monumental statues helped define and protect sacred space. Positioned at or near a temple entrance, it presented the king as guardian of the gods’ precincts and a legitimate participant in Egyptian religious life.
+
+
+
+ID: gem_ptolemaic_king_colossus_discovery_en_004
+TITLE: Colossus of a Ptolemaic King – Discovery at Thonis-Heracleion
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Colossus of a Ptolemaic King
+PERIOD: Ptolemaic (c. 305–30 BCE)
+TYPE: historical_background
+TAGS: underwater archaeology, submerged city, Thonis-Heracleion, rediscovery
+
+TEXT:
+The statue was discovered submerged in the lost city of Thonis-Heracleion. Its survival underwater and modern recovery highlight the importance of underwater archaeology in revealing Egypt’s coastal and maritime history, including cities that once connected Egypt to Mediterranean trade and travel.
+
+
+
+ID: gem_ptolemaic_king_colossus_history_en_005
+TITLE: Colossus of a Ptolemaic King – Historical Background
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Colossus of a Ptolemaic King
+PERIOD: Ptolemaic (c. 305–30 BCE)
+TYPE: historical_background
+TAGS: Ptolemies, Alexander the Great, Hellenistic Egypt, dynastic legitimacy
+
+TEXT:
+The Ptolemies ruled Egypt after the conquests of Alexander the Great, combining Hellenistic governance with Egyptian religious and political traditions. Statues like this one show how foreign-origin rulers used Egyptian forms to claim continuity with earlier pharaohs. The Thonis-Heracleion site also reflects a Mediterranean world where Egyptian, Greek, and other cultures interacted closely.
+
+
+
+ID: gem_ptolemaic_king_colossus_faq_en_006
+TITLE: Colossus of a Ptolemaic King – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Colossus of a Ptolemaic King
+PERIOD: Ptolemaic (c. 305–30 BCE)
+TYPE: faq
+TAGS: visitor questions, Ptolemaic rulers, Egyptian kingship
+
+TEXT:
+Q: Why does a Greek ruler appear as an Egyptian pharaoh?
+A: Ptolemaic kings adopted Egyptian royal imagery to strengthen legitimacy.
+
+Q: Where was it found?
+A: In the submerged city of Thonis-Heracleion.
+
+Q: What was it used for?
+A: It marked royal presence and protected the sacred temple area.

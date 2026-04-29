@@ -1,0 +1,60 @@
+ID: gem_tut_ostrich_fan_overview_en_001
+TITLE: Ostrich Hunt Fan – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Ostrich Hunt Fan
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, ceremonial fan, ostrich hunt, royal power
+
+TEXT:
+The Ostrich Hunt Fan of Tutankhamun was found in the Burial Chamber of the king’s tomb. Originally decorated with alternating brown and white ostrich feathers, it was a ceremonial object associated with royal status and display.
+
+
+
+ID: gem_tut_ostrich_fan_details_en_002
+TITLE: Ostrich Hunt Fan – Materials and Decoration
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Ostrich Hunt Fan
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: gold, wood, ostrich feathers, royal craftsmanship
+
+TEXT:
+The fan was crafted from wood and covered in gold, and once held between thirty and forty-two ostrich feathers. Although the feathers decayed, their arrangement could still be identified during excavation.
+
+
+
+ID: gem_tut_ostrich_fan_function_en_003
+TITLE: Ostrich Hunt Fan – Royal Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Ostrich Hunt Fan
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: royal hunting, control over nature, kingship
+
+TEXT:
+In royal ideology, hunting symbolized control over chaos and nature. The fan’s inscriptions state that Tutankhamun himself hunted the ostriches, reinforcing his image as an active and powerful ruler.
+
+
+
+ID: gem_tut_ostrich_fan_faq_en_004
+TITLE: Ostrich Hunt Fan – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Ostrich Hunt Fan
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, royal hunts, ceremonial objects
+
+TEXT:
+Q: Why ostrich feathers?
+A: They symbolized prestige and royal hunting skill.
+
+Q: Was it practical?
+A: It was mainly ceremonial.
+
+Q: What does the hunt show?
+A: Royal strength and dominance.

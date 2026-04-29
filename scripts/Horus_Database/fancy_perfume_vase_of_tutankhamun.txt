@@ -1,0 +1,74 @@
+ID: gem_tut_perfume_vase_overview_en_001
+TITLE: Fancy Perfume Vase – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Fancy Perfume Vase
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: overview
+TAGS: Tutankhamun, perfume vase, royal burial, ritual vessels
+
+TEXT:
+This ornate perfume vase was discovered in Tutankhamun’s burial chamber and features a long, slender neck topped by a flat rim bearing a vulture. The vessel reflects the high level of craftsmanship and symbolic meaning associated with royal burial goods.
+
+
+
+ID: gem_tut_perfume_vase_details_en_002
+TITLE: Fancy Perfume Vase – Design and Iconography
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Fancy Perfume Vase
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: details
+TAGS: Hapy, lotus and papyrus, unification, Egyptian symbolism
+
+TEXT:
+Two figures of the god Hapy, personification of the Nile, are shown tying lotus and papyrus plants around the neck of the vase. This imagery symbolizes the unification of Upper and Lower Egypt and the life-giving power of the Nile.
+
+
+
+ID: gem_tut_perfume_vase_function_en_003
+TITLE: Fancy Perfume Vase – Function and Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Fancy Perfume Vase
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: significance
+TAGS: purification, rebirth, kingship, funerary rituals
+
+TEXT:
+Perfume vases in royal burials were not merely luxury items but carried symbolic meanings linked to purification, regeneration, and divine kingship. The vessel connected the king’s body with ritual cleansing and renewal in the afterlife.
+
+
+
+ID: gem_tut_perfume_vase_history_en_004
+TITLE: Fancy Perfume Vase – Religious Context
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Fancy Perfume Vase
+PERIOD: New Kingdom, Dynasty 18 (Tutankhamun)
+TYPE: historical_background
+TAGS: vulture goddess, falcon, divine guardianship, Dynasty 18
+
+TEXT:
+The vulture on the rim and protective falcons at the base emphasize divine guardianship over the king’s identity. Inscriptions on the vase affirm the royal couple’s place within the restored traditional religious order of Dynasty 18.
+
+
+
+ID: gem_tut_perfume_vase_faq_en_005
+TITLE: Fancy Perfume Vase – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Fancy Perfume Vase
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, royal perfume, Egyptian ritual
+
+TEXT:
+Q: Why were perfumes placed in tombs?
+A: They symbolized purification and renewal.
+
+Q: Who is Hapy?
+A: The god of the Nile.
+
+Q: What does lotus and papyrus mean?
+A: The unity of Egypt.

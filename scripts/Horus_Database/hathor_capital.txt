@@ -1,0 +1,122 @@
+ID: gem_hathor_capital_overview_en_001
+TITLE: Hathor Capital – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Hathor Capital
+PERIOD: New Kingdom to Late Period (18th–26th Dynasties, c. 1479–570 BCE)
+TYPE: overview
+TAGS: Hathor, architectural element, column capital, temple architecture, sistrum symbolism
+
+TEXT:
+A Hathor capital is an ancient Egyptian architectural element placed at the top of temple columns. It is carved with the stylized face of the goddess Hathor, recognizable by her cow ears, curled wig, and serene expression. These capitals often feature shrine-like structures topped with cobras and solar disks, visually resembling the handle of a sistrum ritual instrument. They symbolized divine protection and joy within sacred temple spaces.
+
+
+
+ID: gem_hathor_capital_details_en_002
+TITLE: Hathor Capital – Materials and Artistic Features
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Hathor Capital
+PERIOD: New Kingdom to Late Period (18th–26th Dynasties)
+TYPE: details
+TAGS: red granite, limestone, sandstone, Hathor face, cow ears, hieroglyphs
+
+TEXT:
+Hathor capitals were typically carved from red granite, limestone, or sandstone. They display a flat, mask-like face of Hathor with cow ears and a curled wig. The horns often spiral outward and may support a solar disk. Some examples contain hieroglyphic inscriptions naming the pharaoh who commissioned the structure. Traces of plaster and paint indicate that many capitals were originally brightly colored.
+
+
+
+ID: gem_hathor_capital_function_en_003
+TITLE: Hathor Capital – Function / Purpose
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Hathor Capital
+PERIOD: New Kingdom to Late Period
+TYPE: significance
+TAGS: temple columns, sacred architecture, sistrum, fertility, divine protection
+
+TEXT:
+Hathor capitals functioned as structural and symbolic elements at the tops of temple columns. Architecturally they supported temple roofs, while symbolically they represented the goddess Hathor’s sistrum, a sacred musical instrument associated with ritual music. Their presence invoked the goddess’s blessings of joy, fertility, protection, and divine harmony within temple spaces.
+
+
+
+ID: gem_hathor_capital_history_en_004
+TITLE: Hathor Capital – Historical Context
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Hathor Capital
+PERIOD: New Kingdom to Late Period (18th–26th Dynasties)
+TYPE: historical_background
+TAGS: Hathor worship, temple architecture, Egyptian religion, dynastic continuity
+
+TEXT:
+Hathor capitals were widely used in temple architecture across several dynasties. Pharaohs such as Thutmose III, Osorkon II, and Apries incorporated them into temples dedicated to Hathor and other deities. Their continued use across centuries reflects the enduring importance of Hathor as a sky goddess, mother figure, and protector associated with Horus and Ra.
+
+
+
+ID: gem_hathor_capital_location_en_005
+TITLE: Hathor Capital – Original Locations
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Hathor Capital
+PERIOD: New Kingdom to Late Period
+TYPE: historical_background
+TAGS: Deir el-Bahari, Bubastis, Sais, temple sites
+
+TEXT:
+Hathor capitals have been found at several temple sites across Egypt. Notable examples come from Deir el-Bahari, particularly the Hathor chapel of Thutmose III, as well as temples at Bubastis and Sais. These locations were important religious centers where Hathor was worshipped as a protective and nurturing goddess.
+
+
+
+ID: gem_hathor_capital_discovery_en_006
+TITLE: Hathor Capital – Discovery / Archaeology
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Hathor Capital
+PERIOD: Modern excavation history
+TYPE: historical_background
+TAGS: temple excavations, British Museum EA1107, Delta archaeology
+
+TEXT:
+Many Hathor capitals were uncovered during excavations at temple sites across Egypt. Some pieces, such as the British Museum example EA1107, are linked through inscriptions to rulers like Osorkon I or Osorkon II. Others were recovered from archaeological missions at Deir el-Bahari and in Delta regions where ancient temples once stood.
+
+
+
+ID: gem_hathor_capital_symbolism_en_007
+TITLE: Hathor Capital – Symbolism or Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Hathor Capital
+PERIOD: New Kingdom to Late Period
+TYPE: significance
+TAGS: Hathor symbolism, motherhood, joy, fertility, protection
+
+TEXT:
+The Hathor capital embodies the goddess’s role as a symbol of joy, love, motherhood, and renewal. Her cow ears and bovine imagery connect her with nurturing and life-giving power. The solar disks and cobras associated with the capital reflect solar authority and divine protection. Together, these features represent the goddess as both protector and bringer of harmony.
+
+
+
+ID: gem_hathor_capital_faq_en_008
+TITLE: Hathor Capital – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Hathor Capital
+PERIOD: New Kingdom to Late Period
+TYPE: faq
+TAGS: visitor questions, Hathor, temple columns
+
+TEXT:
+Q: Where can I view a Hathor capital?
+A: Examples can be seen in major museums such as the British Museum and in Egyptian museum collections, as well as at archaeological temple sites.
+
+Q: Why does Hathor have cow ears?
+A: Hathor was associated with the nurturing cow, symbolizing motherhood and life-giving power.
+
+Q: What is a sistrum?
+A: A sacred rattle used in rituals honoring Hathor, believed to bring joy and ward off chaos.
+
+Q: Were Hathor capitals painted?
+A: Yes, many were originally painted with vibrant colors, though only traces remain today.
+
+Q: How large are they?
+A: Their size varies widely depending on the temple; some large granite examples reach over 1.7 meters in height.

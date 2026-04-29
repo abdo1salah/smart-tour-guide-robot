@@ -1,0 +1,136 @@
+ID: gem_khufu_solar_boats_overview_en_001
+TITLE: Khufu Solar Boats – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Khufu Solar Boats
+PERIOD: Old Kingdom – 4th Dynasty (Reign of Khufu, c. 2589–2566 BCE)
+TYPE: overview
+TAGS: Khufu, solar boat, Great Pyramid, Old Kingdom, funerary ritual
+
+TEXT:
+The Khufu Solar Boats are two large ancient wooden vessels discovered in sealed pits beside the Great Pyramid of Giza. Built during the reign of Pharaoh Khufu, these boats are among the oldest and best-preserved wooden structures from antiquity. One of the boats, over 42 meters long, was found dismantled into hundreds of pieces and carefully reassembled by archaeologists. Today the boats are preserved and displayed at the Grand Egyptian Museum as remarkable examples of ancient Egyptian engineering and funerary traditions.
+
+
+
+ID: gem_khufu_solar_boats_details_en_002
+TITLE: Khufu Solar Boats – Materials and Construction
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Khufu Solar Boats
+PERIOD: Old Kingdom – 4th Dynasty
+TYPE: details
+TAGS: cedar wood, ancient shipbuilding, mortise and tenon
+
+TEXT:
+The boats were constructed primarily from Lebanese cedar wood with additional elements made from local acacia. The planks were joined using mortise-and-tenon joints and secured with rope lashings rather than metal nails. The first boat consisted of more than one thousand individual wooden pieces that were carefully assembled to reconstruct a vessel measuring over 42 meters in length.
+
+
+
+ID: gem_khufu_solar_boats_function_en_003
+TITLE: Khufu Solar Boats – Function / Purpose
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Khufu Solar Boats
+PERIOD: Old Kingdom – 4th Dynasty
+TYPE: significance
+TAGS: funerary ritual, solar barque, afterlife journey
+
+TEXT:
+The boats were likely funerary “solar barques” associated with the pharaoh’s journey in the afterlife. According to Egyptian belief, the king would travel with the sun god Ra across the sky and through the underworld. These vessels symbolized the king’s eternal voyage and his transformation into a divine being.
+
+
+
+ID: gem_khufu_solar_boats_history_en_004
+TITLE: Khufu Solar Boats – Historical Context
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Khufu Solar Boats
+PERIOD: Old Kingdom – 4th Dynasty
+TYPE: historical_background
+TAGS: pyramid complex, Khufu, Old Kingdom religion
+
+TEXT:
+The boats formed part of the funerary complex surrounding the Great Pyramid of Khufu at Giza. Boat burials were an important component of royal pyramid complexes during the Old Kingdom, symbolizing transportation in both the earthly and divine realms. Their presence reflects the strong connection between kingship, the sun god, and the pharaoh’s rebirth after death.
+
+
+
+ID: gem_khufu_solar_boats_location_en_005
+TITLE: Khufu Solar Boats – Original Location
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Khufu Solar Boats
+PERIOD: Old Kingdom – 4th Dynasty
+TYPE: historical_background
+TAGS: Giza Plateau, Great Pyramid, boat pits
+
+TEXT:
+Five boat pits were discovered around the Great Pyramid complex. Two of these pits, located on the southern side of the pyramid, contained the dismantled remains of Khufu’s wooden boats. The pits were sealed with large limestone blocks to protect the vessels for eternity.
+
+
+
+ID: gem_khufu_solar_boats_discovery_en_006
+TITLE: Khufu Solar Boats – Discovery and Reconstruction
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Khufu Solar Boats
+PERIOD: Modern archaeological history
+TYPE: historical_background
+TAGS: Kamal el-Mallakh, restoration, conservation
+
+TEXT:
+The first boat was discovered in 1954 by Egyptian archaeologist Kamal el-Mallakh. Its more than one thousand wooden pieces were carefully documented and reassembled over a period of about ten years. Excavation of the second boat began decades later, with conservation and reconstruction continuing into the twenty-first century.
+
+
+
+ID: gem_khufu_solar_boats_modern_history_en_007
+TITLE: Khufu Solar Boats – Modern Relocation
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Khufu Solar Boats
+PERIOD: Modern era
+TYPE: historical_background
+TAGS: museum relocation, conservation engineering
+
+TEXT:
+In 2021 the first Khufu boat was transported intact from the Giza Solar Boat Museum to the Grand Egyptian Museum. The operation involved complex engineering preparations, including a specially designed transport platform and protective structure. The historic relocation ensured better preservation of the ancient vessel and allowed it to be displayed within a modern museum environment.
+
+
+
+ID: gem_khufu_solar_boats_symbolism_en_008
+TITLE: Khufu Solar Boats – Symbolism or Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Khufu Solar Boats
+PERIOD: Old Kingdom – 4th Dynasty
+TYPE: significance
+TAGS: Ra, solar journey, rebirth
+
+TEXT:
+The boats symbolized the daily journey of the sun god Ra across the sky and through the underworld. By associating himself with this cosmic voyage, Khufu was believed to achieve eternal rebirth and divine status. The vessels therefore represent the connection between royal power, solar religion, and the eternal cycle of life.
+
+
+
+ID: gem_khufu_solar_boats_faq_en_009
+TITLE: Khufu Solar Boats – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Khufu Solar Boats
+PERIOD: Old Kingdom – 4th Dynasty
+TYPE: faq
+TAGS: visitor questions, Khufu, pyramid complex
+
+TEXT:
+Q: Where can the Khufu boat be seen today?
+A: It is displayed in a dedicated building at the Grand Egyptian Museum in Giza.
+
+Q: How long is the reconstructed boat?
+A: The first boat measures over 42 meters in length.
+
+Q: Why were the boats buried near the pyramid?
+A: They were intended to serve the pharaoh during his journey in the afterlife.
+
+Q: Were the boats functional vessels?
+A: They were fully constructed boats, but their primary purpose was symbolic and ritual.
+
+Q: How many boat pits were discovered at the Great Pyramid?
+A: Archaeologists identified five boat pits around the pyramid complex.

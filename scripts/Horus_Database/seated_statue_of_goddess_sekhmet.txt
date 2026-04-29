@@ -1,0 +1,122 @@
+ID: gem_seated_sekhmet_overview_en_001
+TITLE: Seated Statue of Goddess Sekhmet – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Seated Statue of Goddess Sekhmet
+PERIOD: New Kingdom – 18th Dynasty (Reign of Amenhotep III, c. 1397–1360 BCE)
+TYPE: overview
+TAGS: Sekhmet, Amenhotep III, lion-headed goddess, New Kingdom, temple sculpture
+
+TEXT:
+A well-preserved granodiorite statue depicting the lion-headed goddess Sekhmet seated on a throne with a pillar-back. She holds an ankh symbol of life in her left hand while her right hand rests on her knee. The statue originally had a solar disk crown on her head, now missing. Hieroglyphic inscriptions on the throne link the statue to the reign of Pharaoh Amenhotep III.
+
+
+
+ID: gem_seated_sekhmet_details_en_002
+TITLE: Seated Statue of Goddess Sekhmet – Materials and Artistic Features
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Seated Statue of Goddess Sekhmet
+PERIOD: New Kingdom – 18th Dynasty (Reign of Amenhotep III, c. 1397–1360 BCE)
+TYPE: details
+TAGS: granodiorite, lioness head, ankh, broad collar, hieroglyphs, Egyptian sculpture
+
+TEXT:
+The statue is carved from hard granodiorite, a durable dark igneous stone commonly used for royal sculptures. Sekhmet is shown with a realistic lioness head, detailed musculature, and a symmetrical seated pose. She wears a broad collar and holds the ankh symbol of life. Hieroglyphic inscriptions on the throne connect the statue to the pharaoh Amenhotep III and his cult.
+
+
+
+ID: gem_seated_sekhmet_function_en_003
+TITLE: Seated Statue of Goddess Sekhmet – Function / Purpose
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Seated Statue of Goddess Sekhmet
+PERIOD: New Kingdom – 18th Dynasty
+TYPE: significance
+TAGS: temple rituals, votive statue, sacred lake, royal protection, healing rituals
+
+TEXT:
+The statue functioned as a votive and ritual object within temple complexes. Many statues of Sekhmet were placed in rows around sacred lakes where priests performed daily rituals intended to pacify the goddess. These rituals sought to transform her destructive power into healing protection for the pharaoh and the kingdom.
+
+
+
+ID: gem_seated_sekhmet_history_en_004
+TITLE: Seated Statue of Goddess Sekhmet – Historical Context
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Seated Statue of Goddess Sekhmet
+PERIOD: New Kingdom – 18th Dynasty (Reign of Amenhotep III)
+TYPE: historical_background
+TAGS: Amenhotep III, Sekhmet statues, Egyptian empire, Eye of Ra
+
+TEXT:
+During the reign of Amenhotep III, Egypt experienced a period of great prosperity and imperial power. The king commissioned hundreds of statues of Sekhmet, possibly over 365, reflecting his devotion to the goddess and the importance of maintaining divine protection. Sekhmet represented both destructive power as the "Eye of Ra" and healing energy that could protect the pharaoh and restore balance.
+
+
+
+ID: gem_seated_sekhmet_location_en_005
+TITLE: Seated Statue of Goddess Sekhmet – Original Location
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Seated Statue of Goddess Sekhmet
+PERIOD: New Kingdom – 18th Dynasty
+TYPE: historical_background
+TAGS: Temple of Mut, Karnak, Thebes, Kom el-Hetan
+
+TEXT:
+Many statues of Sekhmet were originally placed in the Temple of Mut at Karnak in ancient Thebes (modern Luxor). Some scholars suggest that several statues were initially created for Amenhotep III’s mortuary temple at Kom el-Hetan before being relocated to other temple complexes.
+
+
+
+ID: gem_seated_sekhmet_discovery_en_006
+TITLE: Seated Statue of Goddess Sekhmet – Discovery / Archaeology
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Seated Statue of Goddess Sekhmet
+PERIOD: Modern acquisition history
+TYPE: historical_background
+TAGS: archaeology, Mut Temple excavations, Amenhotep III statues
+
+TEXT:
+Numerous statues of Sekhmet have been discovered at the Temple of Mut and at sites associated with Amenhotep III in Luxor. Archaeological missions from organizations such as the American Research Center in Egypt and German expeditions have uncovered many of these sculptures during excavations in the Karnak region.
+
+
+
+ID: gem_seated_sekhmet_symbolism_en_007
+TITLE: Seated Statue of Goddess Sekhmet – Symbolism or Meaning
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Seated Statue of Goddess Sekhmet
+PERIOD: New Kingdom – 18th Dynasty
+TYPE: significance
+TAGS: lioness goddess, Eye of Ra, healing goddess, divine protection
+
+TEXT:
+Sekhmet’s lioness head symbolizes fierce power and divine wrath. She was known as "The Powerful One" and served as the destructive aspect of the sun god Ra. At the same time, she was also associated with healing and protection. The ankh symbol represents life, while the solar disk crown—originally placed on her head—linked her directly to the sun god Ra.
+
+
+
+ID: gem_seated_sekhmet_faq_en_008
+TITLE: Seated Statue of Goddess Sekhmet – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Seated Statue of Goddess Sekhmet
+PERIOD: New Kingdom – 18th Dynasty
+TYPE: faq
+TAGS: visitor questions, Sekhmet, Amenhotep III statues
+
+TEXT:
+Q: Why were there so many statues of Sekhmet?
+A: Amenhotep III commissioned hundreds of statues—possibly one for each day of the year—to ensure the goddess was ritually appeased every day.
+
+Q: What does the lion head represent?
+A: It symbolizes Sekhmet’s fierce and destructive power as the "Eye of Ra."
+
+Q: What does the ankh in her hand mean?
+A: The ankh represents life and divine vitality.
+
+Q: Where were these statues originally placed?
+A: Many stood in the Temple of Mut at Karnak and other temples associated with Amenhotep III.
+
+Q: Why is the solar disk missing?
+A: The solar disk crown was originally inserted into a mortise on the head but is missing on many surviving statues.

@@ -1,0 +1,88 @@
+ID: gem_anubis_chest_overview_en_001
+TITLE: Anubis on a Chest – Overview
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Anubis on a Chest
+PERIOD: New Kingdom, Dynasty 18
+TYPE: overview
+TAGS: Anubis, Tutankhamun, funerary objects, guardian deity, New Kingdom
+
+TEXT:
+This pylon-shaped chest was found at the entrance to Tutankhamun’s Treasury and is topped by a black and gold figure of Anubis in jackal form. Mounted on a gilded wooden sledge, the chest served as a protective shrine guarding ritual objects and jewelry belonging to the king.
+
+
+
+ID: gem_anubis_chest_details_en_002
+TITLE: Anubis on a Chest – Artistic and Physical Features
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Anubis on a Chest
+PERIOD: New Kingdom, Dynasty 18
+TYPE: details
+TAGS: jackal, gilded wood, pylon shape, Egyptian craftsmanship
+
+TEXT:
+The chest is shaped like a pylon, echoing temple architecture, and rests on a gilded wooden sledge. The figure of Anubis is painted black, a color associated with rebirth and the fertile soil of the Nile, and highlighted with gold details. Inside the chest were compartments containing wrapped ritual items and jewelry.
+
+
+
+ID: gem_anubis_chest_function_en_003
+TITLE: Anubis on a Chest – Function and Symbolism
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Anubis on a Chest
+PERIOD: New Kingdom, Dynasty 18
+TYPE: significance
+TAGS: mummification, afterlife, ritual protection, royal burial
+
+TEXT:
+Anubis was the god of mummification and protector of the dead, making his presence essential in royal burials. Positioned at the entrance to the Treasury, the chest functioned as a sentinel guarding sacred equipment used in the king’s rebirth. Its imagery reinforced the belief that divine protection was required at every stage of the afterlife journey.
+
+
+
+ID: gem_anubis_chest_procession_en_004
+TITLE: Anubis on a Chest – Funerary Procession
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Anubis on a Chest
+PERIOD: New Kingdom, Dynasty 18
+TYPE: historical_background
+TAGS: funerary procession, royal rituals, Tutankhamun burial
+
+TEXT:
+The chest’s placement on a sledge suggests it was originally used in Tutankhamun’s funerary procession before being installed inside the tomb. Such sledges allowed sacred objects to be ritually transported, emphasizing continuity between public funerary ceremonies and the sealed burial space.
+
+
+
+ID: gem_anubis_chest_history_en_005
+TITLE: Anubis on a Chest – Religious Context
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Anubis on a Chest
+PERIOD: New Kingdom, Dynasty 18
+TYPE: historical_background
+TAGS: post-Amarna period, funerary religion, divine guardianship
+
+TEXT:
+Following the religious upheaval of the Amarna period, traditional gods like Anubis regained central importance in funerary belief. The presence of Anubis on this chest reflects the restored emphasis on divine guardianship, ritual precision, and ensuring the king’s safe passage to resurrection.
+
+
+
+ID: gem_anubis_chest_faq_en_006
+TITLE: Anubis on a Chest – Common Questions
+LANGUAGE: en
+MUSEUM: GEM
+EXHIBIT: Anubis on a Chest
+PERIOD: New Kingdom, Dynasty 18
+TYPE: faq
+TAGS: visitor questions, Anubis symbolism, Tutankhamun tomb
+
+TEXT:
+Q: Why is Anubis shown as a jackal?
+A: Jackals were associated with cemeteries and protection of the dead.
+
+Q: Why is the chest on a sledge?
+A: It was likely used in the funerary procession before burial.
+
+Q: What was kept inside?
+A: Ritual objects and jewelry used in the king’s afterlife rites.
