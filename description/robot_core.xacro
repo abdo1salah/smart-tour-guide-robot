@@ -2,7 +2,7 @@
 <robot xmlns:xacro="http://www.ros.org/wiki/xacro" >
 
     <xacro:include filename="inertial_macros.xacro"/>
-
+    <xacro:include filename="ultrasonic.xacro"/> <xacro:property name="chassis_length" value="0.335"/>
 
     <xacro:property name="chassis_length" value="0.335"/>
     <xacro:property name="chassis_width" value="0.265"/>
@@ -183,5 +183,17 @@
         <mu1 value="0.001"/>
         <mu2 value="0.001"/>
     </gazebo>
+
+<xacro:ultrasonic_sensor name="us_center" 
+        x="${chassis_length}" y="0" z="${chassis_height/2}" 
+        roll="0" pitch="0" yaw="0" />
+
+    <xacro:ultrasonic_sensor name="us_left" 
+        x="${chassis_length}" y="${chassis_width/2 }" z="${chassis_height/2}" 
+        roll="0" pitch="0" yaw="${pi/2}" />
+
+    <xacro:ultrasonic_sensor name="us_right" 
+        x="${chassis_length}" y="${-chassis_width/2 }" z="${chassis_height/2}" 
+        roll="0" pitch="0" yaw="-${pi/2}" />
 
 </robot>

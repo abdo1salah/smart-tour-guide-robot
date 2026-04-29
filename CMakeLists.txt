@@ -44,5 +44,9 @@ install(PROGRAMS
   scripts/live_horus.py  # Make sure this path matches where you saved the file!
   DESTINATION lib/${PROJECT_NAME}
 )
+install(PROGRAMS
+  scripts/scan_to_range_node.py  # <-- Path to your script relative to CMakeLists.txt
+  DESTINATION lib/${PROJECT_NAME}
+)
 
 ament_package()

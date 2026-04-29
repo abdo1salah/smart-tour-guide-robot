@@ -193,7 +193,7 @@ local_costmap:
       robot_radius: 0.22
       
       # 1. FIXED ORDER
-      plugins: ["obstacle_layer", "inflation_layer"]
+      plugins: ["obstacle_layer", "sonar_layer","inflation_layer"]
       
       obstacle_layer:
         plugin: "nav2_costmap_2d::ObstacleLayer"
@@ -211,6 +211,13 @@ local_costmap:
           raytrace_min_range: 0.0
           obstacle_max_range: 2.5
           obstacle_min_range: 0.0
+      sonar_layer:
+        plugin: "nav2_costmap_2d::RangeSensorLayer"
+        enabled: True
+        topics: ["/us_left/range", "/us_center/range", "/us_right/range"]
+        clear_threshold: 0.46
+        mark_threshold: 0.98
+        clear_on_max_reading: true
 
       inflation_layer:
         plugin: "nav2_costmap_2d::InflationLayer"
