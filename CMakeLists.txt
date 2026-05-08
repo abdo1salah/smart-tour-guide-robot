@@ -48,5 +48,9 @@ install(PROGRAMS
   scripts/scan_to_range_node.py  # <-- Path to your script relative to CMakeLists.txt
   DESTINATION lib/${PROJECT_NAME}
 )
+install(PROGRAMS
+  scripts/us_node.py  # <-- Path to your script relative to CMakeLists.txt
+  DESTINATION lib/${PROJECT_NAME}
+)
 
 ament_package()
