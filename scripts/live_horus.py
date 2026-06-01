@@ -36,7 +36,7 @@ import vertexai
 PROJECT_ID = "project-ee6fbfda-83e5-4eed-bf2"
 LOCATION = "us-central1"
 GOOGLE_CRED_PATH = r"/home/abdelrahman/project/src/articubot_one/scripts/project-ee6fbfda-83e5-4eed-bf2-80b20b31cbba.json"
-KB_PATH = r"/home/abdelrahman/project/src/articubot_one/scripts/TourGuideRag.txt"
+KB_PATH = r"src/articubot_one/scripts/TourGuideRag_V02.txt"
 GEMINI_API_KEY = "REDACTED"  # Put your API Key here
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = GOOGLE_CRED_PATH
@@ -85,7 +85,7 @@ class HorusKnowledgeBase:
 
         results = [self.docs[i] for i in idxs[0] if i != -1]
         res_str = "\n".join(results) if results else "No information found on this topic."
-        return str(res_str)[:2000]
+        return str(res_str)[:8000]
 
 
 kb = HorusKnowledgeBase()
@@ -133,13 +133,13 @@ class GeminiLive:
 
         HORUS_SYSTEM_INSTRUCTION = """
         **Persona:**
-        You are Horus, an enthusiastic, warm, and highly engaging tour guide robot working in the Grand Egyptian museum. You speak exactly like a native Egyptian. Your default language is Egyptian Arabic, and you should use natural Egyptian phrasing, warmth, and humor. You seamlessly switch to other languages ONLY if a tourist speaks to you in that language or explicitly requests it, though you can playfully sprinkle in foreign terms if it fits the context. Your primary role is a storyteller; you bring history to life.
+        You are Horus (حورس), a multilingual enthusiastic, warm, and highly engaging tour guide robot working in the Grand Egyptian museum. You speak exactly like a native Egyptian.  and you should use natural Egyptian phrasing, warmth, and humor. You seamlessly switch to other languages if a tourist speaks to you in that language or explicitly requests it, though you can playfully sprinkle in foreign terms if it fits the context. Your primary role is a storyteller; you bring history to life.
 
         **Conversational Rules:**
 
         1. **The Greeting:** Start the tour with a delightful, highly welcoming Egyptian greeting and immediately introduce the first piece. 
 
-        2. **The Storytelling Loop:** For every exhibit, you must use the 'search_knowledge_base' tool to retrieve the facts. Tell a compelling story covering all the important information about the piece. You are encouraged to add funny, lighthearted facts, but you must be 100% certain those facts are historically accurate. 
+        2. **The Storytelling Loop:** For every exhibit, you must use the 'search_knowledge_base' tool to retrieve the facts. Tell a compelling story covering every single information you retrieved about the piece. You are encouraged to add funny, lighthearted facts, but you must be 100% certain those facts are historically accurate. 
 
         3. **Handling Unknowns:** If a tourist asks a question and the 'search_knowledge_base' tool returns no information, do not hallucinate or guess. Instead, make up a lighthearted, funny Egyptian joke about why you don't know the answer.
 
@@ -158,7 +158,7 @@ class GeminiLive:
             response_modalities=[types.Modality.AUDIO],
             speech_config=types.SpeechConfig(
                 voice_config=types.VoiceConfig(
-                    prebuilt_voice_config=types.PrebuiltVoiceConfig(voice_name="Aoede")
+                    prebuilt_voice_config=types.PrebuiltVoiceConfig(voice_name="Achird")
                 )
             ),
             system_instruction=types.Content(parts=[types.Part.from_text(text=HORUS_SYSTEM_INSTRUCTION)]),
@@ -364,6 +364,7 @@ async def main():
             pass # Context already initialized
             
         listener_node = rclpy.create_node('horus_listener_node')
+        globals()['caption_pub'] = listener_node.create_publisher(String, '/horus_captions', 10)
         
         def exhibit_callback(msg):
             prompt = f"We have safely arrived at the {msg.data}. Please naturally tell the story about this exhibit."
@@ -445,10 +446,23 @@ async def main():
                 ):
                     if event["type"] == "gemini_transcription":
                         print(event["text"], end=" ", flush=True)
+                        if ROS_ENABLED and 'caption_pub' in globals():
+                            msg = String()
+                            msg.data = f"APPEND:{event['text']}"
+                            globals()['caption_pub'].publish(msg)
                     elif event["type"] == "user_transcription":
                         print(f"\n👤 Tourist: {event['text']}")
                     elif event["type"] == "turn_complete":
                         print("\n🎤 (Listening...)")
+                        if ROS_ENABLED and 'caption_pub' in globals():
+                            msg = String()
+                            msg.data = "CLEAR:"
+                            globals()['caption_pub'].publish(msg)
+                    elif event["type"] == "interrupted":
+                        if ROS_ENABLED and 'caption_pub' in globals():
+                            msg = String()
+                            msg.data = "CLEAR:"
+                            globals()['caption_pub'].publish(msg)
                     elif event["type"] == "error":
                         print(f"\n🔥 Session Error Event: {event['error']}")
                         break  # Break out to auto-reconnect
