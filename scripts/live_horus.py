@@ -37,7 +37,7 @@ PROJECT_ID = "project-ee6fbfda-83e5-4eed-bf2"
 LOCATION = "us-central1"
 GOOGLE_CRED_PATH = r"/home/abdelrahman/project/src/articubot_one/scripts/project-ee6fbfda-83e5-4eed-bf2-80b20b31cbba.json"
 KB_PATH = r"src/articubot_one/scripts/TourGuideRag_V02.txt"
-GEMINI_API_KEY = "REDACTED"  # Put your API Key here
+GEMINI_API_KEY =   # Put your API Key here
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = GOOGLE_CRED_PATH
 os.environ["GEMINI_API_KEY"] = GEMINI_API_KEY
