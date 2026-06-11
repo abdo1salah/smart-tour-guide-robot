@@ -46,7 +46,8 @@ def generate_launch_description():
                        'behavior_server',
                        'bt_navigator',
                        'waypoint_follower',
-                       'velocity_smoother']
+                       'velocity_smoother',
+                       'filter_mask_server']
 
     # Map fully qualified names to relative ones so the node's namespace can be prepended.
     # In case of the transforms (tf), currently, there doesn't seem to be a better alternative
@@ -66,6 +67,16 @@ def generate_launch_description():
             source_file=params_file,
             root_key=namespace,
             param_rewrites=param_substitutions,
+            convert_types=True)
+
+    # Keepout mask file path — used to override the empty yaml_filename
+    # in the filter_mask_server parameters at launch time.
+    mask_yaml_file = os.path.join(bringup_dir, 'maps', 'keepout_mask.yaml')
+    configured_mask_params = RewrittenYaml(
+            source_file=params_file,
+            root_key=namespace,
+            param_rewrites={**param_substitutions,
+                            'yaml_filename': mask_yaml_file},
             convert_types=True)
 
     stdout_linebuf_envvar = SetEnvironmentVariable(
@@ -180,6 +191,16 @@ def generate_launch_description():
                 remappings=remappings +
                         [('cmd_vel', 'cmd_vel_nav'), ('cmd_vel_smoothed', 'cmd_vel')]),
             Node(
+                package='nav2_map_server',
+                executable='map_server',
+                name='filter_mask_server',
+                output='screen',
+                respawn=use_respawn,
+                respawn_delay=2.0,
+                parameters=[configured_mask_params],
+                arguments=['--ros-args', '--log-level', log_level],
+                remappings=remappings),
+            Node(
                 package='nav2_lifecycle_manager',
                 executable='lifecycle_manager',
                 name='lifecycle_manager_navigation',
@@ -238,6 +259,12 @@ def generate_launch_description():
                 parameters=[configured_params],
                 remappings=remappings +
                            [('cmd_vel', 'cmd_vel_nav'), ('cmd_vel_smoothed', 'cmd_vel')]),
+            ComposableNode(
+                package='nav2_map_server',
+                plugin='nav2_map_server::MapServer',
+                name='filter_mask_server',
+                parameters=[configured_mask_params],
+                remappings=remappings),
             ComposableNode(
                 package='nav2_lifecycle_manager',
                 plugin='nav2_lifecycle_manager::LifecycleManager',
