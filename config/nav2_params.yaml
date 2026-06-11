@@ -139,7 +139,7 @@ controller_server:
     FollowPath:
       plugin: "dwb_core::DWBLocalPlanner"
       debug_trajectory_details: True
-      min_vel_x: -0.1
+      min_vel_x: -0.0
       min_vel_y: 0.0
       max_vel_x: 0.26
       max_vel_y: 0.0
@@ -215,6 +215,8 @@ local_costmap:
         plugin: "nav2_costmap_2d::RangeSensorLayer"
         enabled: True
         topics: ["/us_left/range", "/us_center/range", "/us_right/range"]
+        input_sensor_type: ULTRASOUND
+        phi_model: 1.2
         clear_threshold: 0.46
         mark_threshold: 0.98
         clear_on_max_reading: true

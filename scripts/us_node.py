@@ -38,9 +38,9 @@ class UltrasonicBridge(Node):
                 # Expecting: "left,center,right"
                 distances = [float(x) for x in line.split(',')]
                 if len(distances) == 3:
-                    self.pub_left.publish(self.create_range_msg(distances[0], 'us_left'))
-                    self.pub_center.publish(self.create_range_msg(distances[1], 'us_center'))
-                    self.pub_right.publish(self.create_range_msg(distances[2], 'us_right'))
+                    self.pub_left.publish(self.create_range_msg(distances[0], 'us_left_link'))
+                    self.pub_center.publish(self.create_range_msg(distances[1], 'us_center_link'))
+                    self.pub_right.publish(self.create_range_msg(distances[2], 'us_right_link'))
             except ValueError:
                 self.get_logger().warn(f"Malformed serial data: {line}")
 
