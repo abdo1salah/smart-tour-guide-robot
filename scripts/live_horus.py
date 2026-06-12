@@ -3,6 +3,7 @@
 import asyncio
 import os
 import json
+import uuid
 import numpy as np
 import sounddevice as sd
 import faiss
@@ -352,6 +353,8 @@ async def main():
     text_in_queue = asyncio.Queue()
     audio_out_queue = queue.Queue()
     audio_buffer = bytearray()
+    # Track whether we're waiting for a question answer
+    _question_pending = {'active': False, 'text': ''}
     
     # --- ROS 2 Background Thread ---
     def ros2_subscriber_thread():
@@ -365,14 +368,95 @@ async def main():
             
         listener_node = rclpy.create_node('horus_listener_node')
         globals()['caption_pub'] = listener_node.create_publisher(String, '/horus_captions', 10)
-        
+        globals()['tour_events_pub'] = listener_node.create_publisher(String, '/tour_events', 10)
+        globals()['question_events_pub'] = listener_node.create_publisher(String, '/question_events', 10)
+
+        def _publish_tour_event(event_type: str, payload: dict = None):
+            """Helper to publish a JSON event to /tour_events."""
+            if 'tour_events_pub' not in globals():
+                return
+            event = {
+                'eventId': f'evt_{uuid.uuid4().hex[:12]}',
+                'type': event_type,
+                'payload': payload or {},
+            }
+            msg = String()
+            msg.data = json.dumps(event)
+            globals()['tour_events_pub'].publish(msg)
+            logger.info(f"Published tour_event: {event_type}")
+
+        def _publish_question_event(event_type: str, text: str = ''):
+            """Helper to publish a JSON event to /question_events."""
+            if 'question_events_pub' not in globals():
+                return
+            event = {
+                'eventId': f'evt_{uuid.uuid4().hex[:12]}',
+                'type': event_type,
+                'text': text,
+            }
+            msg = String()
+            msg.data = json.dumps(event)
+            globals()['question_events_pub'].publish(msg)
+            logger.info(f"Published question_event: {event_type}")
+
+        # Store helpers in globals so the event loop can access them
+        globals()['_publish_tour_event'] = _publish_tour_event
+        globals()['_publish_question_event'] = _publish_question_event
+
         def exhibit_callback(msg):
             prompt = f"We have safely arrived at the {msg.data}. Please naturally tell the story about this exhibit."
             logger.info(f"ROS 2 Trigger received: {msg.data}. Injecting prompt to Gemini!")
             loop.call_soon_threadsafe(text_in_queue.put_nowait, prompt)
             
         listener_sub = listener_node.create_subscription(String, '/arrived_exhibit', exhibit_callback, 10)
-        logger.info("ROS 2 background subscriber thread started listening on /arrived_exhibit")
+
+        def cloud_command_callback(msg):
+            """Handle commands forwarded by the cloud bridge."""
+            try:
+                cmd = json.loads(msg.data)
+            except json.JSONDecodeError:
+                return
+
+            cmd_type = cmd.get('type', '')
+            payload = cmd.get('payload', {})
+
+            if cmd_type == 'app_question':
+                question_text = payload.get('text', '')
+                if question_text:
+                    logger.info(f"Cloud command: app_question — '{question_text}'")
+                    _publish_question_event('question_received', question_text)
+                    _question_pending['active'] = True
+                    _question_pending['text'] = question_text
+                    loop.call_soon_threadsafe(
+                        text_in_queue.put_nowait,
+                        f"A tourist sent a text question from the app: \"{question_text}\". Please answer it."
+                    )
+            elif cmd_type == 'start_tour':
+                logger.info("Cloud command: start_tour — injecting greeting prompt")
+                _publish_tour_event('tour_started')
+                loop.call_soon_threadsafe(
+                    text_in_queue.put_nowait,
+                    "The tour has just started. Greet the tourists warmly in Egyptian Arabic."
+                )
+            elif cmd_type == 'end_tour':
+                logger.info("Cloud command: end_tour — injecting goodbye prompt")
+                loop.call_soon_threadsafe(
+                    text_in_queue.put_nowait,
+                    "The tour has ended. Please say a warm goodbye to the tourists."
+                )
+                _publish_tour_event('tour_ended')
+            elif cmd_type == 'skip':
+                logger.info("Cloud command: skip — telling Horus to wrap up")
+                loop.call_soon_threadsafe(
+                    text_in_queue.put_nowait,
+                    "The tourists want to skip to the next exhibit. Briefly acknowledge and let them know you're moving on."
+                )
+            # Other command types (find_robot, etc.) handled by waypoint_node
+
+        cloud_cmd_sub = listener_node.create_subscription(
+            String, '/cloud_commands', cloud_command_callback, 10)
+
+        logger.info("ROS 2 background subscriber thread started listening on /arrived_exhibit and /cloud_commands")
         
         try:
             rclpy.spin(listener_node)
@@ -436,6 +520,8 @@ async def main():
 
                 # Kick off the tour with the greeting
                 text_in_queue.put_nowait("The tour has just started. Greet the tourists warmly in Egyptian Arabic.")
+                if ROS_ENABLED and '_publish_tour_event' in globals():
+                    globals()['_publish_tour_event']('tour_started')
 
                 # Consume events from the robust session
                 async for event in gemini.start_session(
@@ -458,6 +544,11 @@ async def main():
                             msg = String()
                             msg.data = "CLEAR:"
                             globals()['caption_pub'].publish(msg)
+                        # If we were answering an app question, mark it answered
+                        if _question_pending['active']:
+                            _question_pending['active'] = False
+                            if ROS_ENABLED and '_publish_question_event' in globals():
+                                globals()['_publish_question_event']('question_answered')
                     elif event["type"] == "interrupted":
                         if ROS_ENABLED and 'caption_pub' in globals():
                             msg = String()

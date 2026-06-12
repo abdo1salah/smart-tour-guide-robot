@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import json
 import rclpy
 from rclpy.node import Node
 from rclpy.action import ActionClient
@@ -25,6 +26,9 @@ class WaypointFollower(Node):
         self.waypoints = self.load_waypoints(waypoints_file)
         self.current_waypoint_index = 0
         self.waiting_for_trigger = False
+        self._current_goal_handle = None
+        self._nav_state = 'idle'  # idle | navigating | waiting | mission_complete
+        self._tour_active = False
         
         if not self.waypoints:
             self.get_logger().error("No waypoints loaded. Shutting down...")
@@ -33,14 +37,25 @@ class WaypointFollower(Node):
         # Action client for Nav2
         self.action_client = ActionClient(self, NavigateToPose, 'navigate_to_pose')
         
-        # Publisher for arrived exhibit name
+        # Publisher for arrived exhibit name (direct link to live_horus)
         self.arrival_pub = self.create_publisher(String, '/arrived_exhibit', 10)
         
-        # Subscription for the trigger topic
+        # Publisher for robot navigation status (consumed by cloud bridge)
+        self.status_pub = self.create_publisher(String, '/robot_status', 10)
+        
+        # Subscription for the trigger topic (direct link from live_horus)
         self.trigger_sub = self.create_subscription(
             String,
             trigger_topic,
             self.trigger_callback,
+            10
+        )
+        
+        # Subscription for cloud commands (from horus_cloud_bridge)
+        self.cloud_cmd_sub = self.create_subscription(
+            String,
+            '/cloud_commands',
+            self._on_cloud_command,
             10
         )
         
@@ -66,15 +81,103 @@ class WaypointFollower(Node):
             self.get_logger().error(f"Failed to load waypoints: {e}")
             return []
 
+    # ---------------------------------------------------------------
+    # Navigation Status Publisher
+    # ---------------------------------------------------------------
+    def _publish_status(self, state: str):
+        """Publish navigation state as JSON to /robot_status."""
+        self._nav_state = state
+        wp_name = ''
+        if 0 <= self.current_waypoint_index < len(self.waypoints):
+            wp_name = self.waypoints[self.current_waypoint_index].get('name', '')
+
+        status = {
+            'state': state,
+            'currentWaypoint': wp_name,
+            'waypointIndex': self.current_waypoint_index,
+            'totalWaypoints': len(self.waypoints),
+        }
+        msg = String()
+        msg.data = json.dumps(status)
+        self.status_pub.publish(msg)
+        self.get_logger().debug(f'Published robot_status: {state}')
+
+    # ---------------------------------------------------------------
+    # Cloud Command Handler
+    # ---------------------------------------------------------------
+    def _on_cloud_command(self, msg: String):
+        """Handle commands forwarded by the cloud bridge."""
+        try:
+            cmd = json.loads(msg.data)
+        except json.JSONDecodeError:
+            return
+
+        cmd_type = cmd.get('type', '')
+
+        if cmd_type == 'start_tour':
+            self._handle_start_tour()
+        elif cmd_type == 'skip':
+            self._handle_skip()
+        elif cmd_type == 'end_tour':
+            self._handle_end_tour()
+        elif cmd_type == 'find_robot':
+            self._handle_find_robot()
+        # Other command types are handled by live_horus, ignore here
+
+    def _handle_start_tour(self):
+        """Reset to the first waypoint and begin navigation."""
+        self.get_logger().info('Cloud command: start_tour — resetting to first waypoint')
+        self._cancel_current_goal()
+        self.current_waypoint_index = 0
+        self.waiting_for_trigger = False
+        self._tour_active = True
+        self.send_next_waypoint()
+
+    def _handle_skip(self):
+        """Cancel current goal and navigate to the next waypoint."""
+        self.get_logger().info('Cloud command: skip — jumping to next waypoint')
+        self._cancel_current_goal()
+        self.waiting_for_trigger = False
+        self.current_waypoint_index += 1
+        self.send_next_waypoint()
+
+    def _handle_end_tour(self):
+        """Cancel navigation and stop the tour."""
+        self.get_logger().info('Cloud command: end_tour — stopping navigation')
+        self._cancel_current_goal()
+        self.waiting_for_trigger = False
+        self._tour_active = False
+        self._publish_status('idle')
+
+    def _handle_find_robot(self):
+        """Publish a one-shot status dump."""
+        self.get_logger().info('Cloud command: find_robot — publishing current status')
+        self._publish_status(self._nav_state)
+
+    def _cancel_current_goal(self):
+        """Cancel the active Nav2 goal if one exists."""
+        if self._current_goal_handle is not None:
+            self.get_logger().info('Cancelling active Nav2 goal...')
+            try:
+                self._current_goal_handle.cancel_goal_async()
+            except Exception as e:
+                self.get_logger().warn(f'Goal cancel failed: {e}')
+            self._current_goal_handle = None
+
+    # ---------------------------------------------------------------
+    # Navigation
+    # ---------------------------------------------------------------
     def send_next_waypoint(self):
         """Sends the next waypoint goal to Nav2."""
         if self.current_waypoint_index >= len(self.waypoints):
             self.get_logger().info('All waypoints visited! Mission complete.')
+            self._publish_status('mission_complete')
             return
             
         wp = self.waypoints[self.current_waypoint_index]
         name = wp.get('name', f'Waypoint_{self.current_waypoint_index}')
         self.get_logger().info(f"Sending goal for waypoint: '{name}'")
+        self._publish_status('navigating')
         
         goal_msg = NavigateToPose.Goal()
         goal_msg.pose = PoseStamped()
@@ -105,13 +208,19 @@ class WaypointFollower(Node):
             self.get_logger().error('Nav2 rejected the goal!')
             return
 
+        self._current_goal_handle = goal_handle
         self.get_logger().info('Nav2 accepted the goal, navigating...')
         get_result_future = goal_handle.get_result_async()
         get_result_future.add_done_callback(self.get_result_callback)
 
     def get_result_callback(self, future):
         """Callback for goal completion."""
+        self._current_goal_handle = None
         status = future.result().status
+
+        if status == GoalStatus.STATUS_CANCELED:
+            self.get_logger().info('Nav2 goal was cancelled.')
+            return
         
         if status == GoalStatus.STATUS_SUCCEEDED:
             wp_name = self.waypoints[self.current_waypoint_index].get('name', '')
@@ -121,6 +230,7 @@ class WaypointFollower(Node):
             arrival_msg = String()
             arrival_msg.data = wp_name
             self.arrival_pub.publish(arrival_msg)
+            self._publish_status('waiting')
             
             # If not the last waypoint, wait for the trigger
             if self.current_waypoint_index + 1 < len(self.waypoints):
@@ -134,7 +244,7 @@ class WaypointFollower(Node):
             self.get_logger().error(f'Navigation failed with status code: {status}')
 
     def trigger_callback(self, msg):
-        """Callback for trigger topic."""
+        """Callback for trigger topic (direct from live_horus)."""
         if self.waiting_for_trigger:
             self.get_logger().info(f"Received trigger string: '{msg.data}'. Proceeding...")
             self.waiting_for_trigger = False
