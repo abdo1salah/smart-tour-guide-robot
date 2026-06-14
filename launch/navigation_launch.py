@@ -47,7 +47,8 @@ def generate_launch_description():
                        'bt_navigator',
                        'waypoint_follower',
                        'velocity_smoother',
-                       'filter_mask_server']
+                       'filter_mask_server',
+                       'costmap_filter_info_server']
 
     # Map fully qualified names to relative ones so the node's namespace can be prepended.
     # In case of the transforms (tf), currently, there doesn't seem to be a better alternative
@@ -201,6 +202,16 @@ def generate_launch_description():
                 arguments=['--ros-args', '--log-level', log_level],
                 remappings=remappings),
             Node(
+                package='nav2_map_server',
+                executable='costmap_filter_info_server',
+                name='costmap_filter_info_server',
+                output='screen',
+                respawn=use_respawn,
+                respawn_delay=2.0,
+                parameters=[configured_params],
+                arguments=['--ros-args', '--log-level', log_level],
+                remappings=remappings),
+            Node(
                 package='nav2_lifecycle_manager',
                 executable='lifecycle_manager',
                 name='lifecycle_manager_navigation',
@@ -264,6 +275,12 @@ def generate_launch_description():
                 plugin='nav2_map_server::MapServer',
                 name='filter_mask_server',
                 parameters=[configured_mask_params],
+                remappings=remappings),
+            ComposableNode(
+                package='nav2_map_server',
+                plugin='nav2_map_server::CostmapFilterInfoServer',
+                name='costmap_filter_info_server',
+                parameters=[configured_params],
                 remappings=remappings),
             ComposableNode(
                 package='nav2_lifecycle_manager',

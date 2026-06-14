@@ -5,4 +5,3 @@ origin: [-16.8, -6.26, 0]
 negate: 0
 occupied_thresh: 0.65
 free_thresh: 0.25
-mode: scale
