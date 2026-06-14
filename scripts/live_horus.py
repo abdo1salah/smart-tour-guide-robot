@@ -12,6 +12,7 @@ import threading
 import traceback
 import inspect
 import logging
+import yaml
 
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 logger = logging.getLogger(__name__)
@@ -46,6 +47,17 @@ os.environ["GEMINI_API_KEY"] = GEMINI_API_KEY
 AUDIO_IN_RATE = 16000
 AUDIO_OUT_RATE = 24000
 
+def get_exhibit_names():
+    try:
+        with open('/home/abdelrahman/project/src/articubot_one/config/waypoints.yaml', 'r') as file:
+            data = yaml.safe_load(file)
+            return [wp['name'] for wp in data.get('waypoints', [])]
+    except Exception as e:
+        logger.error(f"Failed to read waypoints.yaml: {e}")
+        return []
+
+EXHIBIT_ORDER = get_exhibit_names()
+EXHIBIT_LIST_STR = ", ".join(EXHIBIT_ORDER) if EXHIBIT_ORDER else "Unknown"
 
 # ==========================================
 # 🧠 1. KNOWLEDGE BASE (FAISS TOOL)
@@ -113,6 +125,24 @@ def start_moving_to_next_exhibit() -> str:
         return "Simulation: Robot moved to the next exhibit."
 
 
+def go_to_specific_exhibit(exhibit_name: str) -> str:
+    logger.info(f"🤖 [Tool Execution] ROS 2 Navigation Command: Moving specifically to {exhibit_name}...")
+    if ROS_ENABLED:
+        try:
+            node = rclpy.create_node('horus_brain_node_goto')
+            pub = node.create_publisher(String, '/tour_commands', 10)
+            msg = String()
+            msg.data = f"GOTO: {exhibit_name}"
+            pub.publish(msg)
+            node.destroy_node()
+            return f"Robot is now skipping other exhibits and moving to {exhibit_name}. Ask the tourists to follow you."
+        except Exception as e:
+            logger.error(f"ROS Error: {e}")
+            return "Error moving robot."
+    else:
+        return f"Simulation: Robot skipping to {exhibit_name}."
+
+
 # ==========================================
 # 🛠️ 3. THE ROBUST GEMINI LIVE CLASS
 # ==========================================
@@ -132,9 +162,13 @@ class GeminiLive:
     async def start_session(self, audio_input_queue, text_input_queue, audio_output_callback,
                             audio_interrupt_callback=None):
 
-        HORUS_SYSTEM_INSTRUCTION = """
+        HORUS_SYSTEM_INSTRUCTION = f"""
         **Persona:**
         You are Horus (حورس), a multilingual enthusiastic, warm, and highly engaging tour guide robot working in the Grand Egyptian museum. You speak exactly like a native Egyptian.  and you should use natural Egyptian phrasing, warmth, and humor. You seamlessly switch to other languages if a tourist speaks to you in that language or explicitly requests it, though you can playfully sprinkle in foreign terms if it fits the context. Your primary role is a storyteller; you bring history to life.
+
+        **Tour Structure & Awareness:**
+        - The tour consists of the following exhibits in order: {EXHIBIT_LIST_STR}.
+        - You will be notified when you arrive at an exhibit. Always keep track of where you are in the tour and if it is the last exhibit.
 
         **Conversational Rules:**
 
@@ -145,8 +179,9 @@ class GeminiLive:
         3. **Handling Unknowns:** If a tourist asks a question and the 'search_knowledge_base' tool returns no information, do not hallucinate or guess. Instead, make up a lighthearted, funny Egyptian joke about why you don't know the answer.
 
         4. **Moving to the Next Exhibit:** At the end of your story about a piece, always ask the tourists if they are ready to move on. If a tourist asks to move to the next piece, you may occasionally double-check their readiness in a playful, indirect way (for example: "مش عايز تعرف اكتر عن القطعة دي قبل ما نتحرك؟"). 
+        If it is the last exhibit on the tour, conclude the tour gracefully instead of asking to move on.
 
-        5. **Triggering Movement:** Once the tourist confirms they are ready to proceed, you must call the 'start_moving_to_next_exhibit' tool. Let the model know that it's OK to repeat this conversational storytelling loop for as long as the user wants.
+        5. **Triggering Movement:** Once the tourist confirms they are ready to proceed, you must call the 'start_moving_to_next_exhibit' tool. Let the model know that it's OK to repeat this conversational storytelling loop for as long as the user wants. If the tourist explicitly requests to skip the rest and go straight to a specific artifact by name, call the 'go_to_specific_exhibit' tool with that name.
 
         **General Guidelines:** Keep your pacing conversational and natural for spoken audio. Do not overwhelm the user with a giant wall of text; tell the story naturally. Every response should be a net-new addition to the tour, not a recap of what the user just said. 
 
@@ -330,6 +365,11 @@ async def main():
                 name="start_moving_to_next_exhibit",
                 description="Call this ONLY when the tourist explicitly says they are ready to go to the next piece.",
                 parameters={"type": "OBJECT", "properties": {}}
+            ),
+            types.FunctionDeclaration(
+                name="go_to_specific_exhibit",
+                description="Call this ONLY when the tourist explicitly asks to skip ahead and go straight to a specific artifact by name.",
+                parameters={"type": "OBJECT", "properties": {"exhibit_name": {"type": "STRING", "description": "The name of the exhibit to go to."}}, "required": ["exhibit_name"]}
             )
         ]
     )
@@ -337,7 +377,8 @@ async def main():
     # Map the declaration names to our actual python functions
     tool_map = {
         "search_knowledge_base": kb.search,
-        "start_moving_to_next_exhibit": start_moving_to_next_exhibit
+        "start_moving_to_next_exhibit": start_moving_to_next_exhibit,
+        "go_to_specific_exhibit": go_to_specific_exhibit
     }
 
     gemini = GeminiLive(
@@ -404,8 +445,25 @@ async def main():
         globals()['_publish_question_event'] = _publish_question_event
 
         def exhibit_callback(msg):
-            prompt = f"We have safely arrived at the {msg.data}. Please naturally tell the story about this exhibit."
-            logger.info(f"ROS 2 Trigger received: {msg.data}. Injecting prompt to Gemini!")
+            try:
+                data = json.loads(msg.data)
+                name = data.get('name', 'unknown exhibit')
+                is_last = data.get('is_last', False)
+                current_idx = data.get('index', 0)
+                total = data.get('total', 0)
+            except json.JSONDecodeError:
+                name = msg.data
+                is_last = False
+                current_idx = 0
+                total = 0
+
+            prompt = f"We have safely arrived at the {name} (Exhibit {current_idx} of {total}). Please naturally tell the story about this exhibit."
+            if is_last:
+                prompt += " This is the last exhibit on our tour! After telling the story, gracefully conclude the tour."
+            else:
+                prompt += " After telling the story, remember to ask the tourists if they are ready to move on."
+                
+            logger.info(f"ROS 2 Trigger received: {name}. Injecting prompt to Gemini!")
             loop.call_soon_threadsafe(text_in_queue.put_nowait, prompt)
             
         listener_sub = listener_node.create_subscription(String, '/arrived_exhibit', exhibit_callback, 10)

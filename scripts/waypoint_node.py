@@ -227,8 +227,14 @@ class WaypointFollower(Node):
             self.get_logger().info(f"Successfully reached waypoint '{wp_name}'!")
             
             # Publish arrived exhibit message
+            arrival_data = {
+                'name': wp_name,
+                'is_last': (self.current_waypoint_index + 1 == len(self.waypoints)),
+                'index': self.current_waypoint_index + 1,
+                'total': len(self.waypoints)
+            }
             arrival_msg = String()
-            arrival_msg.data = wp_name
+            arrival_msg.data = json.dumps(arrival_data)
             self.arrival_pub.publish(arrival_msg)
             self._publish_status('waiting')
             
@@ -245,11 +251,30 @@ class WaypointFollower(Node):
 
     def trigger_callback(self, msg):
         """Callback for trigger topic (direct from live_horus)."""
-        if self.waiting_for_trigger:
-            self.get_logger().info(f"Received trigger string: '{msg.data}'. Proceeding...")
-            self.waiting_for_trigger = False
-            self.current_waypoint_index += 1
-            self.send_next_waypoint()
+        self.get_logger().info(f"Received trigger string: '{msg.data}'.")
+        
+        if msg.data.startswith("GOTO:"):
+            target_name = msg.data[5:].strip()
+            found_idx = -1
+            for i, wp in enumerate(self.waypoints):
+                if wp.get('name', '').lower() == target_name.lower():
+                    found_idx = i
+                    break
+            
+            if found_idx != -1:
+                self.get_logger().info(f"Jumping to specific exhibit: {target_name}")
+                self._cancel_current_goal()
+                self.waiting_for_trigger = False
+                self.current_waypoint_index = found_idx
+                self.send_next_waypoint()
+            else:
+                self.get_logger().warn(f"Exhibit '{target_name}' not found.")
+        else:
+            if self.waiting_for_trigger:
+                self.get_logger().info("Proceeding to next waypoint...")
+                self.waiting_for_trigger = False
+                self.current_waypoint_index += 1
+                self.send_next_waypoint()
 
 def main(args=None):
     rclpy.init(args=args)
