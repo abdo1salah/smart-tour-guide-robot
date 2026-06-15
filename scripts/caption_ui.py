@@ -1,6 +1,6 @@
 import sys
-from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QVBoxLayout
-from PyQt5.QtCore import Qt, QThread, pyqtSignal
+from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QVBoxLayout, QScrollArea
+from PyQt5.QtCore import Qt, QThread, pyqtSignal, QTimer, QPropertyAnimation, QEasingCurve
 from PyQt5.QtGui import QFont
 
 import rclpy
@@ -68,15 +68,23 @@ class HorusCaptionUI(QWidget):
         self.subtitle.setFont(QFont("Arial", 13))
 
         self.caption = QLabel("Welcome to the Grand Egyptian Museum.")
-        self.caption.setAlignment(Qt.AlignCenter)
+        self.caption.setAlignment(Qt.AlignTop | Qt.AlignHCenter)
         self.caption.setWordWrap(True)
-        self.caption.setMinimumHeight(170)
         self.caption.setStyleSheet("""
             color: #2B2723;
-            padding-left: 100px;
-            padding-right: 100px;
+            padding-left: 50px;
+            padding-right: 50px;
         """)
-        self.caption.setFont(QFont("Arial", 48))
+        self.caption.setFont(QFont("Arial", 40))
+
+        self.scroll_area = QScrollArea()
+        self.scroll_area.setWidget(self.caption)
+        self.scroll_area.setWidgetResizable(True)
+        self.scroll_area.setMinimumHeight(240)
+        self.scroll_area.setFrameShape(QScrollArea.NoFrame)
+        self.scroll_area.setStyleSheet("background-color: transparent;")
+        self.scroll_area.setVerticalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
+        self.scroll_area.setHorizontalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
 
         self.status = QLabel("● Speaking   |   EN")
         self.status.setAlignment(Qt.AlignCenter)
@@ -86,11 +94,15 @@ class HorusCaptionUI(QWidget):
         layout.addWidget(self.logo)
         layout.addWidget(self.subtitle)
         layout.addStretch()
-        layout.addWidget(self.caption)
+        layout.addWidget(self.scroll_area)
         layout.addStretch()
         layout.addWidget(self.status)
 
         self.setLayout(layout)
+
+        self.scroll_animation = QPropertyAnimation(self.scroll_area.verticalScrollBar(), b"value")
+        self.scroll_animation.setEasingCurve(QEasingCurve.OutCubic)
+        self.scroll_animation.setDuration(2000)
 
         self.current_text = ""
         self.needs_clear = False
@@ -111,14 +123,27 @@ class HorusCaptionUI(QWidget):
             self.current_text += text_chunk
             
             # Optional: keep text from getting too long and overflowing
-            if len(self.current_text) > 400:
-                # Keep the last 400 chars roughly, splitting by space
-                self.current_text = "..." + self.current_text[-400:].split(" ", 1)[-1]
+            if len(self.current_text) > 1000:
+                # Keep the last 1000 chars roughly, splitting by space
+                self.current_text = "..." + self.current_text[-1000:].split(" ", 1)[-1]
                 
             self.caption.setText(self.current_text)
             
+            # Auto-scroll to bottom
+            QTimer.singleShot(100, self.scroll_to_bottom)
+            
         elif msg_data.startswith("CLEAR:"):
             self.needs_clear = True
+
+    def scroll_to_bottom(self):
+        scrollbar = self.scroll_area.verticalScrollBar()
+        target_value = scrollbar.maximum()
+        
+        if scrollbar.value() < target_value:
+            self.scroll_animation.stop()
+            self.scroll_animation.setStartValue(scrollbar.value())
+            self.scroll_animation.setEndValue(target_value)
+            self.scroll_animation.start()
 
     def closeEvent(self, event):
         self.ros_thread.stop()
