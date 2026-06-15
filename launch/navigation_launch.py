@@ -72,7 +72,7 @@ def generate_launch_description():
 
     # Keepout mask file path — used to override the empty yaml_filename
     # in the filter_mask_server parameters at launch time.
-    mask_yaml_file = os.path.join(bringup_dir, 'maps', 'lastkeepout.yaml')
+    mask_yaml_file = os.path.join(bringup_dir, 'maps', 'discussionkeepout.yaml')
     configured_mask_params = RewrittenYaml(
             source_file=params_file,
             root_key=namespace,
